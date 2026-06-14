@@ -48,6 +48,20 @@ The current evidence supports known envelope shifts. It does not establish early
 
 The field surrogate is calibrated inside the validated envelope at the target 90% level. Under constructed and fresh OOD shifts, error rises and uncertainty bands expand. However, learned uncertainty does not rank OOD errors strongly enough to serve as a standalone hidden-regime detector.
 
+### Selected Evidence Figures
+
+![Representative temperature field predictions](evidence_pack_tier2_steady/05_figures/tier2_physical_operator/field_prediction_examples_temperature.png)
+
+*OpenFOAM temperature fields, surrogate predictions, absolute error, and 90% half-width for representative ID, constructed OOD, and fresh-OOD cases.*
+
+![Split-conformal field coverage](evidence_pack_tier2_steady/05_figures/tier2_physical_operator/calibration_curve.png)
+
+*Empirical ID field coverage tracks nominal coverage; the public check verifies 90% aggregate coverage at `0.907814`.*
+
+![OOD uncertainty vs error](evidence_pack_tier2_steady/05_figures/tier2_physical_operator/ood_bandwidth_error.png)
+
+*OOD uncertainty expands for many shifted cases, but bandwidth alone does not cleanly rank error; explicit envelope fallback remains the deployment baseline.*
+
 The correct deployment reading is conservative:
 
 - use explicit envelope checks as the primary fallback gate
