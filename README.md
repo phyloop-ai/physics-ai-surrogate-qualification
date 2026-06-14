@@ -1,4 +1,4 @@
-![Phyloop physics-AI surrogate qualification banner](assets/phyloop-repo-banner.svg)
+![Phyloop physics-AI surrogate qualification banner](assets/banner.png)
 
 # Physics-AI Surrogate Qualification
 
