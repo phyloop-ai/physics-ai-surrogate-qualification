@@ -2,7 +2,7 @@
 
 # Physics-AI Surrogate Qualification
 
-[![tests](https://github.com/phyloop-ai/physics-ai-surrogate-qualification/actions/workflows/tests.yml/badge.svg)](https://github.com/phyloop-ai/physics-ai-surrogate-qualification/actions/workflows/tests.yml)
+[![tests](https://github.com/phyloop-ai/physics-ai-surrogate-qualification/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/phyloop-ai/physics-ai-surrogate-qualification/actions/workflows/tests.yml)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 
 Support code and evidence for **PL-WP-002: When Can a Physics-AI Surrogate Be Trusted?**
