@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "When Can a Physics-AI Surrogate Be Trusted? Solver-Validated Qualification with Field Uncertainty and Solver Fallback"
+authors:
+  - family-names: Tiwari
+    given-names: Aditya
+    affiliation: "Culturiq Research Private Limited"
+version: 1.0.0
+date-released: "2026-06-14"
+url: "https://github.com/phyloop-ai/physics-ai-surrogate-qualification"
+repository-code: "https://github.com/phyloop-ai/physics-ai-surrogate-qualification"
+license: Apache-2.0
+abstract: "A solver-validated support workflow for qualifying physics-AI field surrogates with uncertainty calibration, OOD evaluation, and solver fallback evidence."

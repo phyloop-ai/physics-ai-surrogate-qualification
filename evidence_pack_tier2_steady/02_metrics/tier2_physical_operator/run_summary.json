@@ -1,0 +1,164 @@
+{
+  "artifacts": {
+    "calibration_curve": "evidence_pack_tier2_steady/02_metrics/tier2_physical_operator/calibration_curve.csv",
+    "headlines": "evidence_pack_tier2_steady/02_metrics/tier2_physical_operator/headlines.json",
+    "model_checkpoint": "evidence_pack_tier2_steady/04_predictions/tier2_physical_operator/model/compact_fno.pt",
+    "ood_summary": "evidence_pack_tier2_steady/02_metrics/tier2_physical_operator/ood_summary.csv",
+    "prediction_index": "evidence_pack_tier2_steady/04_predictions/tier2_physical_operator/prediction_index.csv",
+    "pseudo_ood_risk_training": "evidence_pack_tier2_steady/02_metrics/tier2_physical_operator/pseudo_ood_risk_training.csv",
+    "risk_coverage_curve_id": "evidence_pack_tier2_steady/02_metrics/tier2_physical_operator/risk_coverage_curve_id.csv",
+    "risk_coverage_curve_mixed": "evidence_pack_tier2_steady/02_metrics/tier2_physical_operator/risk_coverage_curve_mixed.csv",
+    "risk_head_summary": "evidence_pack_tier2_steady/02_metrics/tier2_physical_operator/risk_head_summary.json",
+    "training_history": "evidence_pack_tier2_steady/02_metrics/tier2_physical_operator/training_history.csv"
+  },
+  "data": {
+    "case_counts": {
+      "by_pool": {
+        "id_calibration": 100,
+        "id_test": 100,
+        "id_train": 446,
+        "ood_fresh": 52,
+        "ood_test": 150
+      },
+      "id_calibration": 100,
+      "id_test": 100,
+      "ood_test": 150,
+      "train_total": 446
+    },
+    "extra_parameter_files": [
+      "evidence_pack_tier2_steady/03_data/physical_acquisition_retained_parameters.csv"
+    ],
+    "extra_parameter_sha256": {
+      "evidence_pack_tier2_steady/03_data/physical_acquisition_retained_parameters.csv": "bf790e145b53d198f947a252c6681667a242a80f372ec97ec9eba27548548846"
+    },
+    "extra_train_index_files": [],
+    "extra_train_index_sha256": {},
+    "fixed_grid_index": "evidence_pack_tier2_steady/04_predictions/physical_acquisition_fixed_grid_index.csv",
+    "fixed_grid_index_sha256": "58ec15de821a667fd1b6c98f5168e8cc28e968fdcdee22d23bb2ddac4572ed42",
+    "target_mean": {
+      "T": 294.72393798828125,
+      "U_mag": 0.5346458554267883
+    },
+    "target_std": {
+      "T": 4.642104148864746,
+      "U_mag": 0.6035009026527405
+    }
+  },
+  "headlines": {
+    "gate_id_served_at_coverage90": 1.0,
+    "gate_ood_routed_at_threshold": 0.0,
+    "gate_threshold_tau": 18.53563117980957,
+    "id_coverage_90": 0.9078142167258605,
+    "id_sharpness_ratio_90": 0.746734712976447,
+    "ood_band_width_inflation_ratio_90": 3.6639623639663053,
+    "ood_coverage_90": 0.9481940857719501,
+    "ood_spearman_bandwidth_error": 0.1226561180496911
+  },
+  "model": {
+    "batch_size": 8,
+    "description": "Small Fourier neural operator with local convolution skip paths; predicts full fixed-grid T and |U| fields from geometry/mask/SDF/parameter channels.",
+    "device": "mps",
+    "ensemble_parameter_count": 3441730,
+    "ensemble_size": 5,
+    "ensemble_strategy": "fin_holdout",
+    "epochs": 30,
+    "layers": 4,
+    "member_training_sets": [
+      {
+        "member": 0,
+        "policy": "held_out_n_fin_4",
+        "train_case_count": 346
+      },
+      {
+        "member": 1,
+        "policy": "held_out_n_fin_5",
+        "train_case_count": 359
+      },
+      {
+        "member": 2,
+        "policy": "held_out_n_fin_6",
+        "train_case_count": 350
+      },
+      {
+        "member": 3,
+        "policy": "held_out_n_fin_7",
+        "train_case_count": 367
+      },
+      {
+        "member": 4,
+        "policy": "held_out_n_fin_8",
+        "train_case_count": 362
+      }
+    ],
+    "modes": 12,
+    "mps_available": true,
+    "name": "CompactFNO",
+    "parameter_count_per_member": 688346,
+    "torch_version": "2.12.0",
+    "training_pools": [
+      "id_train"
+    ],
+    "width": 24
+  },
+  "timing": {
+    "total_wall_time_sec": 297.028,
+    "training_wall_time_sec": 271.143
+  },
+  "uq": {
+    "case_level_interpretation": "case_q90 bands calibrate a per-case residual quantile, so the reported case-level metric is the fraction of cases with at least the nominal fraction of fluid pixels covered. case_max bands use the maximum calibration residual per case and approximate simultaneous field coverage.",
+    "distance_gain": 0.0,
+    "ensemble_std_gain": 1.0,
+    "epistemic_signal": "per-pixel standard deviation across independently seeded FNO ensemble members",
+    "levels": [
+      0.5,
+      0.8,
+      0.9,
+      0.95
+    ],
+    "method": "split conformal over normalized fluid-pixel residuals with spatial calibration residual map, ensemble disagreement, and optional nearest-ID train distance inflation",
+    "naive_baseline": "constant-width split-conformal residual band in normalized target units",
+    "primary_level": 0.9,
+    "qhat": {
+      "0.5": 0.34555938839912415,
+      "0.8": 0.7351652979850769,
+      "0.9": 1.0699042081832886,
+      "0.95": 1.48284912109375
+    },
+    "qhat_case_max": {
+      "0.5": 6.275428771972656,
+      "0.8": 9.575103759765625,
+      "0.9": 12.93435287475586,
+      "0.95": 17.95541763305664
+    },
+    "qhat_case_q90": {
+      "0.5": 0.35354599356651306,
+      "0.8": 0.9177230596542358,
+      "0.9": 1.6250402927398682,
+      "0.95": 2.622586488723755
+    },
+    "qhat_naive": {
+      "0.5": 0.04004824161529541,
+      "0.8": 0.12956920266151428,
+      "0.9": 0.23215246200561523,
+      "0.95": 0.38831770420074463
+    },
+    "risk_head": {
+      "held_out_n_fin_by_member": {
+        "0": 4,
+        "1": 5,
+        "2": 6,
+        "3": 7,
+        "4": 8
+      },
+      "name": "pseudo_quadratic",
+      "pseudo_rows": 446,
+      "ridge_lambda": 0.1,
+      "risk_gain": 0.5,
+      "risk_multiplier_cap": 8.0,
+      "score_center": -1.1006639003753662,
+      "score_iqr": 0.419413685798645,
+      "target": "log pseudo relative L2 field error",
+      "training_source": "Configured training pools only; each label is generated by the ensemble member that held out the case's fin-count group."
+    }
+  }
+}

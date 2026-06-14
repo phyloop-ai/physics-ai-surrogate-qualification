@@ -1,0 +1,5 @@
+score_name,calibration_pool,id_accept_fraction,threshold
+band_width_mean_norm_90,id_calibration,0.9,0.5604707896709443
+risk_score,id_calibration,0.9,-0.7161316633224487
+risk_multiplier,id_calibration,0.9,1.4584164381027223
+nearest_id_train_distance,id_calibration,0.9,0.3542166739702225

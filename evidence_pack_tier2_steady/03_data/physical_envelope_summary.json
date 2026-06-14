@@ -1,0 +1,22 @@
+{
+  "candidate_failures_or_unused": 10,
+  "case_count_by_pool": {
+    "hard_regime": 3,
+    "id_calibration": 1,
+    "id_test": 1,
+    "id_train": 2,
+    "ood_fresh": 6,
+    "ood_test": 6
+  },
+  "case_count_by_validation_pool": {
+    "fresh_ood": 6,
+    "hard_regime": 3,
+    "id": 4,
+    "near_ood": 6
+  },
+  "failures_file": "evidence_pack_tier2_steady/03_data/physical_envelope_failures.csv",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/physical_envelope_parameters.csv",
+  "retained_cases": 19,
+  "selection_file": "evidence_pack_tier2_steady/03_data/physical_envelope_selection.csv",
+  "target_count": 19
+}

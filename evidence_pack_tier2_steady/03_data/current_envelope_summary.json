@@ -1,0 +1,48 @@
+{
+  "case_count_by_pool": {
+    "hard_regime": 3,
+    "id_calibration": 1,
+    "id_test": 1,
+    "id_train": 2,
+    "ood_fresh": 6,
+    "ood_test": 6
+  },
+  "current_envelope_all_passed": false,
+  "current_envelope_cases": 19,
+  "current_envelope_exclusions_file": "evidence_pack_tier2_steady/03_data/current_envelope_exclusions.csv",
+  "current_envelope_failures": [
+    {
+      "case_id": "ood_test_0106",
+      "drop_reason": "raw temperature extrema check failed",
+      "validation_pool": "near_ood"
+    },
+    {
+      "case_id": "ood_test_0107",
+      "drop_reason": "raw temperature extrema check failed",
+      "validation_pool": "near_ood"
+    },
+    {
+      "case_id": "ood_fresh_0017",
+      "drop_reason": "raw temperature extrema check failed",
+      "validation_pool": "fresh_ood"
+    },
+    {
+      "case_id": "ood_fresh_0089",
+      "drop_reason": "raw temperature extrema check failed",
+      "validation_pool": "fresh_ood"
+    },
+    {
+      "case_id": "ood_fresh_0008",
+      "drop_reason": "raw temperature extrema check failed",
+      "validation_pool": "fresh_ood"
+    }
+  ],
+  "current_envelope_parameter_file": "evidence_pack_tier2_steady/03_data/current_envelope_parameters.csv",
+  "current_envelope_selection_file": "evidence_pack_tier2_steady/03_data/current_envelope_selection.csv",
+  "excluded_cases": 2,
+  "exclusion_rule": "Exclude selected hard-regime cases whose target_regime contains d_in_high until a separate validated steady/transient solver path exists.",
+  "selected_cases": 21,
+  "source_parameter_file": "evidence_pack_tier2_steady/03_data/solver_validation_parameters.csv",
+  "source_selection_file": "evidence_pack_tier2_steady/03_data/solver_validation_selection.csv",
+  "source_summary_csv": "evidence_pack_tier2_steady/03_data/solver_validation_summary.csv"
+}

@@ -1,0 +1,11 @@
+case_id,pool,h_ch,n_fin,h_fin,d_in,u_in,q_w,geometry_family,solver_status
+ood_test_0085,ood_test,6.74179,10,2.437301,7.509428,0.940538,7.994804,uniform_fins,pending
+ood_test_0004,ood_test,11.707474,10,4.855156,4.216275,0.962978,6.804483,uniform_fins,pending
+ood_test_0113,ood_test,7.042716,12,3.410859,7.444519,1.428653,6.228521,uniform_fins,pending
+ood_test_0074,ood_test,12.051699,12,3.443761,5.42144,1.181774,8.191639,uniform_fins,pending
+ood_fresh_0011,ood_fresh,5.551035,12,3.593414,7.334984,1.322245,17.439504,uniform_fins,pending
+ood_fresh_0053,ood_fresh,5.746158,12,2.914304,7.237486,0.985301,22.16106,uniform_fins,pending
+ood_fresh_0059,ood_fresh,7.359976,12,5.369405,0.700443,1.423693,13.365638,uniform_fins,pending
+ood_fresh_0077,ood_fresh,4.496907,12,3.337029,0.719961,0.820212,12.546577,uniform_fins,pending
+ood_fresh_0002,ood_fresh,11.849743,12,2.500497,2.773509,1.451251,11.182283,uniform_fins,pending
+ood_fresh_0044,ood_fresh,12.061692,12,2.400601,4.999859,0.922244,15.45733,uniform_fins,pending

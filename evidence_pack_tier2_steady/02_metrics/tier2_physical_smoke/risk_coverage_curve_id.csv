@@ -1,0 +1,3 @@
+acceptance_fraction,threshold_tau,accepted_cases,empirical_coverage_90,id_served_fraction,ood_served_fraction,ood_routed_fraction
+0.0,,0,,0.0,,
+1.0,1.2352505922317505,1,0.43097014925373134,1.0,,

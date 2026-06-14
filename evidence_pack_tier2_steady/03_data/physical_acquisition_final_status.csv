@@ -1,0 +1,1158 @@
+combined_position,case_id,pool,selection_status,converged,dropped,has_archive_manifest_row,archive_exists,archive_path,drop_reason,flow_converged_reported,raw_enthalpy_passed,raw_temperature_extrema_passed,raw_temperature_max_T_K,wall_time_sec
+1,id_train_0365,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0365.tar.gz,,true,true,true,304.52932,57.553
+2,id_train_0381,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,309.41077,233.828
+3,id_train_0327,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,302.52366,319.948
+4,id_train_0258,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0258.tar.gz,,true,true,true,306.43363,48.972
+5,id_train_0054,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0054.tar.gz,,true,true,true,308.43316,36.129
+6,id_train_0075,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0075.tar.gz,,true,true,true,304.58185,36.456
+7,id_train_0206,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0206.tar.gz,,true,true,true,310.42901,73.210
+8,id_train_0282,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,304.2193,309.690
+9,id_train_0163,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0163.tar.gz,,true,true,true,308.51765,42.937
+10,id_train_0319,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0319.tar.gz,,true,true,true,301.30222,43.337
+11,id_train_0015,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0015.tar.gz,,true,true,true,315.48794,39.737
+12,id_train_0216,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0216.tar.gz,,true,true,true,304.30373,30.108
+13,id_train_0202,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0202.tar.gz,,true,true,true,306.54343,32.166
+14,id_train_0268,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0268.tar.gz,,true,true,true,306.0857,36.718
+15,id_train_0199,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0199.tar.gz,,true,true,true,302.64026,58.904
+16,id_train_0240,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0240.tar.gz,,true,true,true,300.28552,32.197
+17,id_train_0046,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0046.tar.gz,,true,true,true,311.58155,43.068
+18,id_train_0057,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0057.tar.gz,,true,true,true,311.95592,140.617
+19,id_train_0003,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0003.tar.gz,,true,true,true,304.26334,41.045
+20,id_train_0254,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0254.tar.gz,,true,true,true,312.14409,70.911
+21,id_train_0150,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,316.95846,282.510
+22,id_train_0201,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,304.40183,149.610
+23,id_train_0312,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0312.tar.gz,,true,true,true,305.17323,39.679
+24,id_train_0223,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0223.tar.gz,,true,true,true,302.68162,31.942
+25,id_train_0024,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0024.tar.gz,,true,true,true,309.49136,31.837
+26,id_train_0230,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,311.69974,145.724
+27,id_train_0346,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0346.tar.gz,,true,true,true,321.60059,42.602
+28,id_train_0012,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,329.08716,338.799
+29,id_train_0313,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0313.tar.gz,,true,true,true,307.39838,35.306
+30,id_train_0149,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0149.tar.gz,,true,true,true,315.72828,21.875
+31,id_train_0320,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0320.tar.gz,,true,true,true,336.53132,34.375
+32,id_train_0141,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0141.tar.gz,,true,true,true,308.00898,36.307
+33,id_train_0137,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0137.tar.gz,,true,true,true,324.28206,26.159
+34,id_train_0048,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0048.tar.gz,,true,true,true,328.09132,31.855
+35,id_train_0399,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0399.tar.gz,,true,true,true,328.57462,26.101
+36,id_train_0115,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0115.tar.gz,,true,true,true,320.17177,19.505
+37,id_train_0251,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0251.tar.gz,,true,true,true,303.50048,33.047
+38,id_train_0267,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0267.tar.gz,,true,true,true,313.08969,28.955
+39,id_train_0243,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0243.tar.gz,,true,true,true,303.74758,17.750
+40,id_train_0019,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0019.tar.gz,,true,true,true,305.77094,25.578
+41,id_train_0120,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,327.69191,191.587
+42,id_train_0181,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0181.tar.gz,,true,true,true,318.87182,110.997
+43,id_train_0007,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0007.tar.gz,,true,true,true,322.57048,25.608
+44,id_train_0148,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0148.tar.gz,,true,true,true,346.63434,46.226
+45,id_train_0089,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0089.tar.gz,,true,true,true,310.56485,18.604
+46,id_train_0085,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0085.tar.gz,,true,true,true,323.58151,19.801
+47,id_train_0226,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0226.tar.gz,,true,true,true,308.27827,34.065
+48,id_train_0247,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,307.79018,112.835
+49,id_train_0273,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0273.tar.gz,,true,true,true,349.03746,111.369
+50,id_train_0169,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0169.tar.gz,,true,true,true,314.69936,25.746
+51,id_train_0300,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0300.tar.gz,,true,true,true,322.5324,17.951
+52,id_train_0221,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0221.tar.gz,,true,true,true,307.44734,18.841
+53,id_train_0347,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0347.tar.gz,,true,true,true,308.74975,17.202
+54,id_train_0288,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0288.tar.gz,,true,true,true,312.41167,18.782
+55,id_train_0259,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0259.tar.gz,,true,true,true,360.5225,72.690
+56,id_train_0270,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0270.tar.gz,,true,true,true,319.47627,95.122
+57,id_train_0231,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0231.tar.gz,,true,true,true,303.35346,29.897
+58,id_train_0117,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,311.25155,162.796
+59,id_train_0303,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0303.tar.gz,,true,true,true,321.82781,94.817
+60,id_train_0349,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,341.13758,334.724
+61,id_train_0265,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0265.tar.gz,,true,true,true,322.52425,36.796
+62,id_train_0271,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0271.tar.gz,,true,true,true,326.35769,83.301
+63,id_train_0232,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0232.tar.gz,,true,true,true,339.30742,126.542
+64,id_train_0378,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0378.tar.gz,,true,true,true,311.60681,35.282
+65,id_train_0194,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0194.tar.gz,,true,true,true,301.75127,22.433
+66,id_train_0035,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0035.tar.gz,,true,true,true,346.05495,40.167
+67,id_train_0356,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0356.tar.gz,,true,true,true,369.80332,213.653
+68,id_train_0372,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0372.tar.gz,,true,true,true,309.22065,31.272
+69,id_train_0083,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0083.tar.gz,,true,true,true,322.00082,155.091
+70,id_train_0339,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0339.tar.gz,,true,true,true,303.52686,32.823
+71,id_train_0215,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0215.tar.gz,,true,true,true,318.60499,51.929
+72,id_train_0121,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0121.tar.gz,,true,true,true,316.16732,31.897
+73,id_train_0022,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0022.tar.gz,,true,true,true,323.31412,44.877
+74,id_train_0343,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0343.tar.gz,,true,true,true,315.96003,27.279
+75,id_train_0379,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0379.tar.gz,,true,true,true,311.01154,46.416
+76,id_train_0395,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0395.tar.gz,,true,true,true,340.07453,56.362
+77,id_train_0191,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0191.tar.gz,,true,true,true,319.86585,46.828
+78,id_train_0087,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0087.tar.gz,,true,true,true,321.73,51.499
+79,id_train_0038,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0038.tar.gz,,true,true,true,322.59016,31.919
+80,id_train_0119,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0119.tar.gz,,true,true,true,321.93963,51.256
+81,id_train_0380,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0380.tar.gz,,true,true,true,323.40334,28.582
+82,id_train_0236,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0236.tar.gz,,true,true,true,386.2788,93.238
+83,id_train_0107,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0107.tar.gz,,true,true,true,317.40405,28.030
+84,id_train_0073,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0073.tar.gz,,true,true,true,354.06198,150.855
+85,id_train_0164,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0164.tar.gz,,true,true,true,318.92658,39.254
+86,id_train_0030,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,322.28212,167.242
+87,id_train_0256,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,311.4431,153.827
+88,id_train_0222,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0222.tar.gz,,true,true,true,329.0385,49.155
+89,id_train_0213,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0213.tar.gz,,true,true,true,391.21902,153.754
+90,id_train_0364,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0364.tar.gz,,true,true,true,388.21062,129.688
+91,id_train_0360,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0360.tar.gz,,true,true,true,355.45508,68.106
+92,id_train_0306,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0306.tar.gz,,true,true,true,379.69509,101.306
+93,id_train_0252,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0252.tar.gz,,true,true,true,336.03426,38.465
+94,id_train_0283,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0283.tar.gz,,true,true,true,333.82082,58.100
+95,id_train_0064,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,349.56327,399.299
+96,id_train_0385,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0385.tar.gz,,true,true,true,315.80528,52.849
+97,id_train_0081,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0081.tar.gz,,true,true,true,344.37476,93.243
+98,id_train_0227,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0227.tar.gz,,true,true,true,321.79167,25.691
+99,id_train_0153,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0153.tar.gz,,true,true,true,335.46982,157.300
+100,id_train_0014,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0014.tar.gz,,true,true,true,323.82111,26.712
+101,id_train_0010,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0010.tar.gz,,true,true,true,320.679,12.707
+102,id_train_0336,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0336.tar.gz,,true,true,true,310.81262,24.848
+103,id_train_0292,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0292.tar.gz,,true,true,true,328.6781,20.690
+104,id_train_0008,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0008.tar.gz,,true,true,true,306.96717,22.126
+105,id_train_0369,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0369.tar.gz,,true,true,true,329.34915,36.501
+106,id_train_0290,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0290.tar.gz,,true,true,true,306.74378,18.068
+107,id_train_0011,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0011.tar.gz,,true,true,true,352.63637,38.046
+108,id_train_0332,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0332.tar.gz,,true,true,true,312.33,16.984
+109,id_train_0068,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0068.tar.gz,,true,true,true,331.02168,22.206
+110,id_train_0209,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,360.30401,251.197
+111,id_train_0165,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0165.tar.gz,,true,true,true,367.15313,47.504
+112,id_train_0151,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0151.tar.gz,,true,true,true,319.11807,15.508
+113,id_train_0367,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0367.tar.gz,,true,true,true,304.0787,13.902
+114,id_train_0143,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0143.tar.gz,,true,true,true,389.8331,51.380
+115,id_train_0384,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0384.tar.gz,,true,true,true,309.78327,23.848
+116,id_train_0155,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0155.tar.gz,,true,true,true,369.76752,23.281
+117,id_train_0086,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,320.04766,118.662
+118,id_train_0357,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0357.tar.gz,,true,true,true,318.03031,17.419
+119,id_train_0118,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0118.tar.gz,,true,true,true,381.84081,75.686
+120,id_train_0049,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0049.tar.gz,,true,true,true,330.04928,126.480
+121,id_train_0090,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0090.tar.gz,,true,true,true,347.13371,103.114
+122,id_train_0326,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,326.70205,175.921
+123,id_train_0037,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0037.tar.gz,,true,true,true,343.638,39.948
+124,id_train_0298,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0298.tar.gz,,true,true,true,333.62492,32.631
+125,id_train_0039,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0039.tar.gz,,true,true,true,301.55936,15.291
+126,id_train_0280,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0280.tar.gz,,true,true,true,346.48435,54.738
+127,id_train_0281,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0281.tar.gz,,true,true,true,341.45077,30.306
+128,id_train_0162,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0162.tar.gz,,true,true,true,324.26678,59.938
+129,id_train_0233,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0233.tar.gz,,true,true,true,335.26442,61.808
+130,id_train_0139,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0139.tar.gz,,true,true,true,343.65827,37.327
+131,id_train_0370,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0370.tar.gz,,true,true,true,345.19174,33.148
+132,id_train_0116,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0116.tar.gz,,true,true,true,312.48737,34.016
+133,id_train_0382,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0382.tar.gz,,true,true,true,325.33401,189.904
+134,id_train_0093,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0093.tar.gz,,true,true,true,324.58916,26.328
+135,id_train_0324,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0324.tar.gz,,true,true,true,323.50039,33.833
+136,id_train_0245,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0245.tar.gz,,true,true,true,351.59536,77.991
+137,id_train_0341,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,325.69275,264.265
+138,id_train_0062,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0062.tar.gz,,true,true,true,326.23171,56.549
+139,id_train_0193,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0193.tar.gz,,true,true,true,369.49914,113.166
+140,id_train_0074,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0074.tar.gz,,true,true,true,328.23732,66.150
+141,id_train_0190,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0190.tar.gz,,true,true,true,307.64327,36.572
+142,id_train_0331,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0331.tar.gz,,true,true,true,354.94922,166.469
+143,id_train_0287,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0287.tar.gz,,true,true,true,343.94039,46.376
+144,id_train_0358,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0358.tar.gz,,true,true,true,434.91724,162.126
+145,id_train_0154,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0154.tar.gz,,true,true,true,308.60486,26.643
+146,id_train_0100,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0100.tar.gz,,true,true,true,383.93102,52.664
+147,id_train_0371,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0371.tar.gz,,true,true,true,353.51691,73.970
+148,id_train_0342,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0342.tar.gz,,true,true,true,333.43216,79.092
+149,id_train_0183,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0183.tar.gz,,true,true,true,336.46567,92.762
+150,id_train_0204,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0204.tar.gz,,true,true,true,321.7294,55.298
+151,id_train_0040,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0040.tar.gz,,true,true,true,358.63446,43.713
+152,id_train_0111,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0111.tar.gz,,true,true,true,356.97672,47.703
+153,id_train_0337,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0337.tar.gz,,true,true,true,337.99217,46.946
+154,id_train_0333,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0333.tar.gz,,true,true,true,418.19614,109.278
+155,id_train_0299,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0299.tar.gz,,true,true,true,316.87129,32.492
+156,id_train_0345,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,357.56624,177.556
+157,id_train_0076,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,325.49354,146.008
+158,id_train_0072,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0072.tar.gz,,true,true,true,321.61705,44.387
+159,id_train_0293,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0293.tar.gz,,true,true,true,306.09167,15.309
+160,id_train_0289,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0289.tar.gz,,true,true,true,333.84677,34.910
+161,id_train_0210,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,357.58258,165.947
+162,id_train_0056,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0056.tar.gz,,true,true,true,315.54305,24.441
+163,id_train_0352,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0352.tar.gz,,true,true,true,352.23019,203.828
+164,id_train_0133,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0133.tar.gz,,true,true,true,454.229,91.916
+165,id_train_0304,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0304.tar.gz,,true,true,true,392.06927,107.275
+166,id_train_0185,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0185.tar.gz,,true,true,true,363.38667,28.532
+167,id_train_0126,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0126.tar.gz,,true,true,true,310.26284,39.348
+168,id_train_0112,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0112.tar.gz,,true,true,true,325.93715,68.233
+169,id_train_0238,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0238.tar.gz,,true,true,true,346.28019,39.281
+170,id_train_0044,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0044.tar.gz,,true,true,true,370.17822,61.467
+171,id_train_0350,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0350.tar.gz,,true,true,true,346.18373,26.357
+172,id_train_0036,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0036.tar.gz,,true,true,true,352.17212,48.831
+173,id_train_0132,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0132.tar.gz,,true,true,true,329.00365,26.183
+174,id_train_0078,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,356.60326,313.114
+175,id_train_0389,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0389.tar.gz,,true,true,true,332.40501,37.781
+176,id_train_0175,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0175.tar.gz,,true,true,true,357.30936,23.711
+177,id_train_0021,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0021.tar.gz,,true,true,true,338.30429,98.622
+178,id_train_0127,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0127.tar.gz,,true,true,true,341.56329,23.589
+179,id_train_0248,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0248.tar.gz,,true,true,true,317.20918,13.371
+180,id_train_0134,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0134.tar.gz,,true,true,true,373.48092,128.719
+181,id_train_0170,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0170.tar.gz,,true,true,true,351.04225,34.050
+182,id_train_0101,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0101.tar.gz,,true,true,true,349.38919,31.333
+183,id_train_0187,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,339.10345,108.572
+184,id_train_0023,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0023.tar.gz,,true,true,true,331.25763,15.913
+185,id_train_0239,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0239.tar.gz,,true,true,true,364.64722,32.072
+186,id_train_0130,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0130.tar.gz,,true,true,true,330.54461,16.065
+187,id_train_0196,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0196.tar.gz,,true,true,true,338.29771,73.920
+188,id_train_0047,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0047.tar.gz,,true,true,true,359.15097,82.984
+189,id_train_0203,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0203.tar.gz,,true,true,true,416.19322,77.949
+190,id_train_0219,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0219.tar.gz,,true,true,true,314.68197,28.086
+191,id_train_0045,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0045.tar.gz,,true,true,true,318.99448,15.727
+192,id_train_0301,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,354.30097,147.902
+193,id_train_0387,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0387.tar.gz,,true,true,true,369.2359,26.258
+194,id_train_0353,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0353.tar.gz,,true,true,true,327.66267,13.744
+195,id_train_0359,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0359.tar.gz,,true,true,true,386.18504,92.786
+196,id_train_0025,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,348.28602,96.609
+197,id_train_0071,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0071.tar.gz,,true,true,true,330.93866,17.145
+198,id_train_0397,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,343.42804,108.950
+199,id_train_0363,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0363.tar.gz,,true,true,true,342.87038,22.834
+200,id_train_0059,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0059.tar.gz,,true,true,true,387.19957,25.997
+201,id_train_0145,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0145.tar.gz,,true,true,true,354.53044,34.419
+202,id_train_0156,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0156.tar.gz,,true,true,true,373.89998,39.204
+203,id_train_0092,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0092.tar.gz,,true,true,true,391.37894,21.231
+204,id_train_0043,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0043.tar.gz,,true,true,true,335.66012,15.582
+205,id_train_0269,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,330.46025,116.102
+206,id_train_0250,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0250.tar.gz,,true,true,true,356.27219,26.596
+207,id_train_0266,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0266.tar.gz,,true,true,true,340.52793,72.393
+208,id_train_0182,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0182.tar.gz,,true,true,true,376.78668,36.905
+209,id_train_0053,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0053.tar.gz,,true,true,true,409.87081,26.995
+210,id_train_0309,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0309.tar.gz,,true,true,true,360.21871,54.577
+211,id_train_0375,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,336.48331,80.238
+212,id_train_0106,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0106.tar.gz,,true,true,true,312.17758,24.910
+213,id_train_0317,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0317.tar.gz,,true,true,true,321.0911,15.584
+214,id_train_0158,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0158.tar.gz,,true,true,true,388.56644,172.622
+215,id_train_0264,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0264.tar.gz,,true,true,true,350.23135,29.808
+216,id_train_0140,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,377.91113,243.982
+217,id_train_0241,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0241.tar.gz,,true,true,true,340.63992,36.855
+218,id_train_0262,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0262.tar.gz,,true,true,true,319.93384,19.423
+219,id_train_0373,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0373.tar.gz,,true,true,true,335.21595,39.447
+220,id_train_0179,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0179.tar.gz,,true,true,true,350.45748,139.718
+221,id_train_0205,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0205.tar.gz,,true,true,true,348.8615,31.820
+222,id_train_0016,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0016.tar.gz,,true,true,true,321.19157,60.662
+223,id_train_0212,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0212.tar.gz,,true,true,true,307.13969,15.081
+224,id_train_0388,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0388.tar.gz,,true,true,true,337.44654,44.435
+225,id_train_0114,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0114.tar.gz,,true,true,true,324.39364,31.886
+226,id_train_0325,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0325.tar.gz,,true,true,true,358.08343,39.973
+227,id_train_0296,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0296.tar.gz,,true,true,true,445.45219,69.519
+228,id_train_0067,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,341.85118,167.040
+229,id_train_0063,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0063.tar.gz,,true,true,true,358.1696,31.927
+230,id_train_0109,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0109.tar.gz,,true,true,true,345.33651,28.693
+231,id_train_0070,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0070.tar.gz,,true,true,true,354.30439,41.673
+232,id_train_0396,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0396.tar.gz,,true,true,true,343.54952,111.190
+233,id_train_0027,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0027.tar.gz,,true,true,true,373.16706,27.745
+234,id_train_0348,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0348.tar.gz,,true,true,true,338.32671,35.858
+235,id_train_0334,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0334.tar.gz,,true,true,true,343.68159,33.560
+236,id_train_0095,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0095.tar.gz,,true,true,true,320.04406,21.573
+237,id_train_0261,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0261.tar.gz,,true,true,true,357.74439,296.214
+238,id_train_0167,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0167.tar.gz,,true,true,true,351.74986,54.514
+239,id_train_0178,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0178.tar.gz,,true,true,true,348.65928,55.541
+240,id_train_0184,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0184.tar.gz,,true,true,true,363.5208,88.371
+241,id_train_0060,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0060.tar.gz,,true,true,true,334.97969,20.358
+242,id_train_0286,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0286.tar.gz,,true,true,true,345.20838,21.975
+243,id_train_0257,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0257.tar.gz,,true,true,true,382.53669,296.386
+244,id_train_0018,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0018.tar.gz,,true,true,true,329.70054,23.709
+245,id_train_0329,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0329.tar.gz,,true,true,true,322.92066,28.743
+246,id_train_0225,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0225.tar.gz,,true,true,true,355.69118,31.178
+247,id_train_0316,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,329.88289,158.745
+248,id_train_0097,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0097.tar.gz,,true,true,true,320.71001,30.059
+249,id_train_0123,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0123.tar.gz,,true,true,true,321.5921,21.352
+250,id_train_0229,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0229.tar.gz,,true,true,true,383.06045,150.303
+251,id_train_0260,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0260.tar.gz,,true,true,true,358.43873,87.238
+252,id_train_0211,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0211.tar.gz,,true,true,true,461.22893,105.435
+253,id_train_0322,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0322.tar.gz,,true,true,true,353.90175,37.518
+254,id_train_0308,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0308.tar.gz,,true,true,true,347.40154,40.176
+255,id_train_0394,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0394.tar.gz,,true,true,true,329.95988,26.157
+256,id_train_0055,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0055.tar.gz,,true,true,true,327.2407,32.579
+257,id_train_0391,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0391.tar.gz,,true,true,true,320.01556,13.073
+258,id_train_0217,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0217.tar.gz,,true,true,true,337.99346,28.071
+259,id_train_0278,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0278.tar.gz,,true,true,true,370.9529,63.246
+260,id_train_0159,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0159.tar.gz,,true,true,true,344.0701,29.261
+261,id_train_0285,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0285.tar.gz,,true,true,true,361.1201,52.387
+262,id_train_0311,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0311.tar.gz,,true,true,true,356.27052,55.319
+263,id_train_0042,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0042.tar.gz,,true,true,true,358.14657,32.897
+264,id_train_0098,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0098.tar.gz,,true,true,true,406.89757,123.777
+265,id_train_0129,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0129.tar.gz,,true,true,true,393.07249,207.901
+266,id_train_0180,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0180.tar.gz,,true,true,true,399.69526,62.974
+267,id_train_0031,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0031.tar.gz,,true,true,true,321.78902,26.172
+268,id_train_0032,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0032.tar.gz,,true,true,true,465.29398,201.194
+269,id_train_0393,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0393.tar.gz,,true,true,true,361.01936,51.516
+270,id_train_0124,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0124.tar.gz,,true,true,true,387.0968,52.948
+271,id_train_0200,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0200.tar.gz,,true,true,true,389.99861,111.672
+272,id_train_0136,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0136.tar.gz,,true,true,true,348.95034,32.831
+273,id_train_0082,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0082.tar.gz,,true,true,true,396.10215,100.345
+274,id_train_0323,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0323.tar.gz,,true,true,true,378.65352,35.644
+275,id_train_0279,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0279.tar.gz,,true,true,true,386.19445,117.701
+276,id_train_0110,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0110.tar.gz,,true,true,true,346.51527,41.601
+277,id_train_0366,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0366.tar.gz,,true,true,true,378.93041,67.486
+278,id_train_0237,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0237.tar.gz,,true,true,true,460.6499,110.723
+279,id_train_0058,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0058.tar.gz,,true,true,true,352.55185,26.080
+280,id_train_0079,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0079.tar.gz,,true,true,true,341.44983,32.010
+281,id_train_0160,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0160.tar.gz,,true,true,true,337.62269,15.292
+282,id_train_0321,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0321.tar.gz,,true,true,true,351.97112,30.094
+283,id_train_0307,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0307.tar.gz,,true,true,true,353.18174,63.257
+284,id_train_0113,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0113.tar.gz,,true,true,true,346.91449,39.540
+285,id_train_0004,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0004.tar.gz,,true,true,true,365.58036,47.998
+286,id_train_0005,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0005.tar.gz,,true,true,true,365.64919,33.926
+287,id_train_0171,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0171.tar.gz,,true,true,true,375.98739,41.438
+288,id_train_0377,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0377.tar.gz,,true,true,true,368.52583,28.629
+289,id_train_0173,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0173.tar.gz,,true,true,true,352.96873,47.026
+290,id_train_0314,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0314.tar.gz,,true,true,true,353.07631,61.604
+291,id_train_0080,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0080.tar.gz,,true,true,true,385.88045,49.737
+292,id_train_0001,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0001.tar.gz,,true,true,true,316.11116,12.867
+293,id_train_0302,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0302.tar.gz,,true,true,true,382.24165,40.951
+294,id_train_0198,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0198.tar.gz,,true,true,true,310.97021,11.026
+295,id_train_0344,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0344.tar.gz,,true,true,true,330.60434,31.606
+296,id_train_0255,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0255.tar.gz,,true,true,true,402.99197,44.253
+297,id_train_0161,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0161.tar.gz,,true,true,true,420.51899,69.914
+298,id_train_0297,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0297.tar.gz,,true,true,true,321.3525,16.001
+299,id_train_0138,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0138.tar.gz,,true,true,true,384.20509,29.418
+300,id_train_0249,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0249.tar.gz,,true,true,true,368.21314,47.523
+301,id_train_0000,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0000.tar.gz,,true,true,true,366.45174,30.182
+302,id_train_0376,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0376.tar.gz,,true,true,true,369.83852,38.864
+303,id_train_0122,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0122.tar.gz,,true,true,true,362.45732,32.932
+304,id_train_0398,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0398.tar.gz,,true,true,true,332.46228,33.531
+305,id_train_0069,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0069.tar.gz,,true,true,true,370.84595,94.308
+306,id_train_0195,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0195.tar.gz,,true,true,true,351.51249,19.844
+307,id_train_0061,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0061.tar.gz,,true,true,true,371.96135,173.581
+308,id_train_0002,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0002.tar.gz,,true,true,true,357.95437,29.108
+309,id_train_0228,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0228.tar.gz,,true,true,true,351.47428,44.479
+310,id_train_0189,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0189.tar.gz,,true,true,true,335.66842,30.365
+311,id_train_0050,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0050.tar.gz,,true,true,true,344.38405,25.078
+312,id_train_0006,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0006.tar.gz,,true,true,true,410.77684,120.779
+313,id_train_0192,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0192.tar.gz,,true,true,true,332.00712,17.479
+314,id_train_0383,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0383.tar.gz,,true,true,true,352.7718,33.532
+315,id_train_0284,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0284.tar.gz,,true,true,true,340.28144,33.336
+316,id_train_0340,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0340.tar.gz,,true,true,true,374.42009,68.761
+317,id_train_0091,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0091.tar.gz,,true,true,true,335.59863,24.341
+318,id_train_0172,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0172.tar.gz,,true,true,true,320.51736,22.544
+319,id_train_0338,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0338.tar.gz,,true,true,true,356.24961,59.390
+320,id_train_0034,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0034.tar.gz,,true,true,true,364.51485,68.996
+321,id_train_0355,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0355.tar.gz,,true,true,true,340.97821,14.949
+322,id_train_0361,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0361.tar.gz,,true,true,true,362.54217,49.776
+323,id_train_0207,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0207.tar.gz,,true,true,true,422.62149,108.610
+324,id_train_0088,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0088.tar.gz,,true,true,true,338.32117,27.570
+325,id_train_0374,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0374.tar.gz,,true,true,true,350.57382,79.564
+326,id_train_0065,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0065.tar.gz,,true,true,true,354.4686,47.723
+327,id_train_0351,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0351.tar.gz,,true,true,true,344.16128,25.395
+328,id_train_0147,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0147.tar.gz,,true,true,true,328.97318,31.056
+329,id_train_0013,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0013.tar.gz,,true,true,true,366.40767,63.181
+330,id_train_0104,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0104.tar.gz,,true,true,true,367.90268,37.272
+331,id_train_0235,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0235.tar.gz,,true,true,true,354.9246,23.699
+332,id_train_0026,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0026.tar.gz,,true,true,true,335.88442,22.168
+333,id_train_0242,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0242.tar.gz,,true,true,true,385.90835,28.861
+334,id_train_0128,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0128.tar.gz,,true,true,true,364.54657,29.640
+335,id_train_0029,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0029.tar.gz,,true,true,true,399.04765,79.147
+336,id_train_0295,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0295.tar.gz,,true,true,true,343.20271,37.801
+337,id_train_0131,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0131.tar.gz,,true,true,true,429.35962,187.060
+338,id_train_0152,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0152.tar.gz,,true,true,true,370.22465,23.218
+339,id_train_0168,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0168.tar.gz,,true,true,true,359.37317,28.982
+340,id_train_0099,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0099.tar.gz,,true,true,true,333.33388,29.088
+341,id_train_0305,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0305.tar.gz,,true,true,true,345.03612,20.117
+342,id_train_0146,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0146.tar.gz,,true,true,true,388.56801,41.295
+343,id_train_0277,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0277.tar.gz,,true,true,true,329.60801,43.078
+344,id_train_0028,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0028.tar.gz,,true,true,true,364.2702,41.729
+345,id_train_0094,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0094.tar.gz,,true,true,true,324.49615,18.526
+346,id_train_0335,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0335.tar.gz,,true,true,true,365.9053,22.440
+347,id_train_0051,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0051.tar.gz,,true,true,true,361.82794,23.223
+348,id_train_0177,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0177.tar.gz,,true,true,true,381.10117,64.550
+349,id_train_0208,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0208.tar.gz,,true,true,true,365.88871,34.046
+350,id_train_0234,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0234.tar.gz,,true,true,true,357.59103,31.716
+351,id_train_0275,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0275.tar.gz,,true,true,true,381.82795,25.994
+352,id_train_0066,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0066.tar.gz,,true,true,true,339.85436,22.036
+353,id_train_0052,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0052.tar.gz,,true,true,true,387.79428,46.544
+354,id_train_0253,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0253.tar.gz,,true,true,true,426.51067,76.763
+355,id_train_0354,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0354.tar.gz,,true,true,true,364.30246,29.272
+356,id_train_0135,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0135.tar.gz,,true,true,true,331.79233,13.014
+357,id_train_0386,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0386.tar.gz,,true,true,true,388.1055,48.565
+358,id_train_0362,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0362.tar.gz,,true,true,true,390.89364,32.309
+359,id_train_0108,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0108.tar.gz,,true,true,true,367.62339,38.993
+360,id_train_0144,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0144.tar.gz,,true,true,true,375.24616,42.965
+361,id_train_0330,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0330.tar.gz,,true,true,true,342.93683,15.099
+362,id_train_0276,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0276.tar.gz,,true,true,true,347.46904,11.516
+363,id_train_0197,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0197.tar.gz,,true,true,true,403.66681,37.958
+364,id_train_0318,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0318.tar.gz,,true,true,true,346.18174,16.837
+365,id_train_0084,id_train,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,595.073,125.229
+366,id_train_0125,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0125.tar.gz,,true,true,true,312.54804,8.578
+367,id_train_0186,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0186.tar.gz,,true,true,true,371.53101,24.286
+368,id_train_0392,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0392.tar.gz,,true,true,true,340.40196,51.609
+369,id_train_0033,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0033.tar.gz,,true,true,true,350.63618,16.963
+370,id_train_0244,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0244.tar.gz,,true,true,true,412.93061,54.546
+371,id_train_0315,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0315.tar.gz,,true,true,true,397.61844,41.703
+372,id_train_0246,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0246.tar.gz,,true,true,true,351.01081,11.093
+373,id_train_0272,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0272.tar.gz,,true,true,true,363.76866,22.500
+374,id_train_0328,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0328.tar.gz,,true,true,true,453.3041,70.448
+375,id_train_0214,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0214.tar.gz,,true,true,true,398.40184,33.200
+376,id_train_0220,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0220.tar.gz,,true,true,true,333.07555,10.709
+377,id_train_0176,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0176.tar.gz,,true,true,true,397.38116,32.365
+378,id_train_0142,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0142.tar.gz,,true,true,true,352.63628,34.369
+379,id_train_0263,id_train,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,499.13919,75.877
+380,id_train_0174,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0174.tar.gz,,true,true,true,385.85592,33.032
+381,id_train_0020,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0020.tar.gz,,true,true,true,386.03086,49.453
+382,id_train_0291,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0291.tar.gz,,true,true,true,377.42996,29.110
+383,id_train_0077,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0077.tar.gz,,true,true,true,350.22157,20.015
+384,id_train_0188,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0188.tar.gz,,true,true,true,369.67239,24.463
+385,id_train_0294,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0294.tar.gz,,true,true,true,452.02688,57.731
+386,id_train_0105,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0105.tar.gz,,true,true,true,346.81203,12.569
+387,id_train_0041,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0041.tar.gz,,true,true,true,381.56609,36.818
+388,id_train_0102,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0102.tar.gz,,true,true,true,345.05524,12.970
+389,id_train_0103,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0103.tar.gz,,true,true,true,349.51445,13.413
+390,id_train_0274,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0274.tar.gz,,true,true,true,412.77102,42.731
+391,id_train_0390,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0390.tar.gz,,true,true,true,364.92006,16.333
+392,id_train_0166,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0166.tar.gz,,true,true,true,396.39746,61.921
+393,id_train_0017,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0017.tar.gz,,true,true,true,340.37416,19.932
+394,id_train_0218,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0218.tar.gz,,true,true,true,357.19422,11.001
+395,id_train_0224,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0224.tar.gz,,true,true,true,424.3567,43.214
+396,id_train_0310,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0310.tar.gz,,true,true,true,361.02305,12.032
+397,id_train_0096,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_0096.tar.gz,,true,true,true,369.14997,14.724
+398,id_train_0157,id_train,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,532.38074,66.830
+399,id_train_0368,id_train,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,527.83482,63.240
+400,id_train_0009,id_train,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,520.27985,60.400
+401,id_calibration_0465,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0465.tar.gz,,true,true,true,365.55175,87.629
+402,id_calibration_0486,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0486.tar.gz,,true,true,true,306.50722,29.841
+403,id_calibration_0437,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0437.tar.gz,,true,true,true,305.57989,76.328
+404,id_calibration_0423,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0423.tar.gz,,true,true,true,322.07143,61.102
+405,id_calibration_0454,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0454.tar.gz,,true,true,true,311.01162,234.326
+406,id_calibration_0490,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0490.tar.gz,,true,true,true,320.0548,43.263
+407,id_calibration_0476,id_calibration,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,335.69395,271.086
+408,id_calibration_0412,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0412.tar.gz,,true,true,true,315.85256,22.019
+409,id_calibration_0463,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0463.tar.gz,,true,true,true,310.04559,52.385
+410,id_calibration_0404,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0404.tar.gz,,true,true,true,337.43884,167.336
+411,id_calibration_0425,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0425.tar.gz,,true,true,true,371.59206,76.119
+412,id_calibration_0406,id_calibration,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,340.52372,264.840
+413,id_calibration_0492,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0492.tar.gz,,true,true,true,306.10541,32.667
+414,id_calibration_0468,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0468.tar.gz,,true,true,true,316.42741,57.253
+415,id_calibration_0449,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0449.tar.gz,,true,true,true,308.21916,49.570
+416,id_calibration_0480,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0480.tar.gz,,true,true,true,346.89742,27.112
+417,id_calibration_0416,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0416.tar.gz,,true,true,true,318.12338,24.273
+418,id_calibration_0487,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0487.tar.gz,,true,true,true,413.30484,122.509
+419,id_calibration_0483,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0483.tar.gz,,true,true,true,314.8835,59.338
+420,id_calibration_0424,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0424.tar.gz,,true,true,true,322.49402,38.973
+421,id_calibration_0415,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0415.tar.gz,,true,true,true,315.34167,13.424
+422,id_calibration_0411,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0411.tar.gz,,true,true,true,369.60659,135.176
+423,id_calibration_0462,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0462.tar.gz,,true,true,true,312.75883,26.670
+424,id_calibration_0418,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0418.tar.gz,,true,true,true,393.99109,307.050
+425,id_calibration_0414,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0414.tar.gz,,true,true,true,310.60053,39.217
+426,id_calibration_0475,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0475.tar.gz,,true,true,true,318.54909,38.256
+427,id_calibration_0431,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0431.tar.gz,,true,true,true,356.46788,44.445
+428,id_calibration_0442,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0442.tar.gz,,true,true,true,334.7098,31.744
+429,id_calibration_0453,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0453.tar.gz,,true,true,true,360.3792,27.226
+430,id_calibration_0479,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0479.tar.gz,,true,true,true,322.48914,62.757
+431,id_calibration_0495,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0495.tar.gz,,true,true,true,414.27734,35.553
+432,id_calibration_0421,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0421.tar.gz,,true,true,true,354.10036,78.919
+433,id_calibration_0482,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0482.tar.gz,,true,true,true,306.958,24.351
+434,id_calibration_0438,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0438.tar.gz,,true,true,true,434.05557,76.448
+435,id_calibration_0444,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0444.tar.gz,,true,true,true,328.3782,24.102
+436,id_calibration_0445,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0445.tar.gz,,true,true,true,368.39894,18.277
+437,id_calibration_0491,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0491.tar.gz,,true,true,true,363.59832,24.136
+438,id_calibration_0452,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0452.tar.gz,,true,true,true,408.6167,99.695
+439,id_calibration_0493,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0493.tar.gz,,true,true,true,335.92746,39.156
+440,id_calibration_0434,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0434.tar.gz,,true,true,true,317.76513,18.305
+441,id_calibration_0450,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0450.tar.gz,,true,true,true,396.39118,25.751
+442,id_calibration_0451,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0451.tar.gz,,true,true,true,398.32458,55.353
+443,id_calibration_0457,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0457.tar.gz,,true,true,true,321.73913,74.912
+444,id_calibration_0488,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0488.tar.gz,,true,true,true,345.26387,32.942
+445,id_calibration_0484,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0484.tar.gz,,true,true,true,336.67919,35.670
+446,id_calibration_0470,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0470.tar.gz,,true,true,true,381.87646,18.914
+447,id_calibration_0481,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0481.tar.gz,,true,true,true,388.14267,51.845
+448,id_calibration_0477,id_calibration,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,344.58616,210.185
+449,id_calibration_0413,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0413.tar.gz,,true,true,true,323.77404,33.538
+450,id_calibration_0419,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0419.tar.gz,,true,true,true,330.51593,24.103
+451,id_calibration_0435,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0435.tar.gz,,true,true,true,390.06069,85.919
+452,id_calibration_0401,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0401.tar.gz,,true,true,true,362.72204,105.655
+453,id_calibration_0472,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0472.tar.gz,,true,true,true,377.76356,56.418
+454,id_calibration_0458,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0458.tar.gz,,true,true,true,486.19935,89.136
+455,id_calibration_0409,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0409.tar.gz,,true,true,true,349.10105,41.586
+456,id_calibration_0410,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0410.tar.gz,,true,true,true,328.67161,10.316
+457,id_calibration_0446,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0446.tar.gz,,true,true,true,374.85345,28.386
+458,id_calibration_0432,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0432.tar.gz,,true,true,true,334.83041,58.940
+459,id_calibration_0448,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0448.tar.gz,,true,true,true,380.12192,32.041
+460,id_calibration_0439,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0439.tar.gz,,true,true,true,375.39207,36.797
+461,id_calibration_0430,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0430.tar.gz,,true,true,true,322.3818,9.955
+462,id_calibration_0456,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0456.tar.gz,,true,true,true,356.89031,35.816
+463,id_calibration_0422,id_calibration,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,339.90687,148.888
+464,id_calibration_0403,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0403.tar.gz,,true,true,true,345.23299,29.564
+465,id_calibration_0494,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0494.tar.gz,,true,true,true,344.96517,26.033
+466,id_calibration_0400,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0400.tar.gz,,true,true,true,335.38686,20.245
+467,id_calibration_0466,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0466.tar.gz,,true,true,true,367.97506,98.195
+468,id_calibration_0427,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0427.tar.gz,,true,true,true,347.79992,21.112
+469,id_calibration_0433,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0433.tar.gz,,true,true,true,355.49136,35.551
+470,id_calibration_0459,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0459.tar.gz,,true,true,true,439.61907,68.114
+471,id_calibration_0405,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0405.tar.gz,,true,true,true,376.70416,40.618
+472,id_calibration_0471,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0471.tar.gz,,true,true,true,425.69932,73.198
+473,id_calibration_0407,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0407.tar.gz,,true,true,true,339.34365,15.843
+474,id_calibration_0498,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0498.tar.gz,,true,true,true,330.42189,17.825
+475,id_calibration_0489,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0489.tar.gz,,true,true,true,466.42649,129.028
+476,id_calibration_0455,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0455.tar.gz,,true,true,true,354.71101,26.652
+477,id_calibration_0461,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0461.tar.gz,,true,true,true,359.83136,63.633
+478,id_calibration_0402,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0402.tar.gz,,true,true,true,331.4806,19.716
+479,id_calibration_0473,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0473.tar.gz,,true,true,true,343.44216,30.652
+480,id_calibration_0469,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0469.tar.gz,,true,true,true,400.81371,136.264
+481,id_calibration_0440,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0440.tar.gz,,true,true,true,394.42267,23.292
+482,id_calibration_0436,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0436.tar.gz,,true,true,true,429.84637,107.279
+483,id_calibration_0417,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0417.tar.gz,,true,true,true,334.95518,21.181
+484,id_calibration_0478,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0478.tar.gz,,true,true,true,339.4752,22.417
+485,id_calibration_0474,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0474.tar.gz,,true,true,true,413.64242,155.776
+486,id_calibration_0460,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0460.tar.gz,,true,true,true,377.18688,34.245
+487,id_calibration_0496,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0496.tar.gz,,true,true,true,353.85882,32.211
+488,id_calibration_0467,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0467.tar.gz,,true,true,true,377.43769,75.259
+489,id_calibration_0428,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0428.tar.gz,,true,true,true,349.92355,23.201
+490,id_calibration_0464,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0464.tar.gz,,true,true,true,442.49996,109.487
+491,id_calibration_0485,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0485.tar.gz,,true,true,true,394.98511,57.930
+492,id_calibration_0441,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0441.tar.gz,,true,true,true,346.37323,26.756
+493,id_calibration_0497,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0497.tar.gz,,true,true,true,364.97247,21.971
+494,id_calibration_0408,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0408.tar.gz,,true,true,true,357.01753,21.691
+495,id_calibration_0499,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0499.tar.gz,,true,true,true,349.98386,36.162
+496,id_calibration_0420,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0420.tar.gz,,true,true,true,417.30051,31.251
+497,id_calibration_0426,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0426.tar.gz,,true,true,true,346.62489,13.448
+498,id_calibration_0447,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0447.tar.gz,,true,true,true,413.67005,54.891
+499,id_calibration_0443,id_calibration,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,552.85135,66.609
+500,id_calibration_0429,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_0429.tar.gz,,true,true,true,362.19359,28.416
+501,id_test_0520,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0520.tar.gz,,true,true,true,300.81006,70.277
+502,id_test_0576,id_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,303.87083,158.461
+503,id_test_0537,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0537.tar.gz,,true,true,true,299.59338,27.029
+504,id_test_0548,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0548.tar.gz,,true,true,true,299.97327,33.414
+505,id_test_0514,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0514.tar.gz,,true,true,true,299.54164,42.066
+506,id_test_0545,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0545.tar.gz,,true,true,true,308.3978,31.154
+507,id_test_0501,id_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,305.58464,185.335
+508,id_test_0517,id_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,321.47462,237.521
+509,id_test_0503,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0503.tar.gz,,true,true,true,310.3394,31.670
+510,id_test_0574,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0574.tar.gz,,true,true,true,365.37296,123.382
+511,id_test_0530,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0530.tar.gz,,true,true,true,302.94364,103.340
+512,id_test_0566,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0566.tar.gz,,true,true,true,302.93426,18.841
+513,id_test_0542,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0542.tar.gz,,true,true,true,305.97092,51.492
+514,id_test_0593,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0593.tar.gz,,true,true,true,301.93397,28.802
+515,id_test_0584,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0584.tar.gz,,true,true,true,350.71195,127.792
+516,id_test_0540,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0540.tar.gz,,true,true,true,330.09839,180.884
+517,id_test_0551,id_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,328.37059,315.382
+518,id_test_0532,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0532.tar.gz,,true,true,true,330.94555,41.959
+519,id_test_0523,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0523.tar.gz,,true,true,true,323.25117,37.119
+520,id_test_0589,id_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,311.91154,222.604
+521,id_test_0550,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0550.tar.gz,,true,true,true,308.87473,69.837
+522,id_test_0556,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0556.tar.gz,,true,true,true,327.4195,54.876
+523,id_test_0592,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0592.tar.gz,,true,true,true,334.30005,38.214
+524,id_test_0573,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0573.tar.gz,,true,true,true,329.91089,119.564
+525,id_test_0579,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0579.tar.gz,,true,true,true,318.57215,30.942
+526,id_test_0555,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0555.tar.gz,,true,true,true,310.21697,31.900
+527,id_test_0531,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0531.tar.gz,,true,true,true,335.47804,38.568
+528,id_test_0562,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0562.tar.gz,,true,true,true,310.9028,26.228
+529,id_test_0538,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0538.tar.gz,,true,true,true,314.20967,33.254
+530,id_test_0539,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0539.tar.gz,,true,true,true,431.81122,109.938
+531,id_test_0565,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0565.tar.gz,,true,true,true,325.91295,34.523
+532,id_test_0561,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0561.tar.gz,,true,true,true,310.06389,19.511
+533,id_test_0512,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0512.tar.gz,,true,true,true,319.80079,35.732
+534,id_test_0553,id_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,351.27889,342.757
+535,id_test_0549,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0549.tar.gz,,true,true,true,442.80186,144.712
+536,id_test_0590,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0590.tar.gz,,true,true,true,327.65019,45.411
+537,id_test_0546,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0546.tar.gz,,true,true,true,344.32855,33.154
+538,id_test_0572,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0572.tar.gz,,true,true,true,309.33217,15.624
+539,id_test_0568,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0568.tar.gz,,true,true,true,308.64769,32.556
+540,id_test_0519,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0519.tar.gz,,true,true,true,321.49195,23.606
+541,id_test_0505,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0505.tar.gz,,true,true,true,328.81936,159.455
+542,id_test_0536,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0536.tar.gz,,true,true,true,357.21397,30.382
+543,id_test_0552,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0552.tar.gz,,true,true,true,397.18914,93.273
+544,id_test_0588,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0588.tar.gz,,true,true,true,340.28322,18.698
+545,id_test_0564,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0564.tar.gz,,true,true,true,325.4826,19.120
+546,id_test_0515,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0515.tar.gz,,true,true,true,334.18808,15.275
+547,id_test_0516,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0516.tar.gz,,true,true,true,374.69884,19.995
+548,id_test_0597,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0597.tar.gz,,true,true,true,309.69739,9.527
+549,id_test_0518,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0518.tar.gz,,true,true,true,344.97948,42.329
+550,id_test_0599,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0599.tar.gz,,true,true,true,398.51929,85.152
+551,id_test_0575,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0575.tar.gz,,true,true,true,355.32535,19.000
+552,id_test_0581,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0581.tar.gz,,true,true,true,369.06914,24.567
+553,id_test_0557,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0557.tar.gz,,true,true,true,358.01186,29.572
+554,id_test_0513,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0513.tar.gz,,true,true,true,358.14678,31.223
+555,id_test_0504,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0504.tar.gz,,true,true,true,311.02367,26.677
+556,id_test_0595,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0595.tar.gz,,true,true,true,335.11121,26.424
+557,id_test_0596,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0596.tar.gz,,true,true,true,372.00521,29.695
+558,id_test_0547,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0547.tar.gz,,true,true,true,383.48501,37.322
+559,id_test_0543,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0543.tar.gz,,true,true,true,348.87763,74.330
+560,id_test_0529,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0529.tar.gz,,true,true,true,358.89888,56.989
+561,id_test_0580,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0580.tar.gz,,true,true,true,358.00709,30.614
+562,id_test_0526,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0526.tar.gz,,true,true,true,344.78309,82.052
+563,id_test_0567,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0567.tar.gz,,true,true,true,365.46334,55.069
+564,id_test_0533,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0533.tar.gz,,true,true,true,331.65018,29.440
+565,id_test_0544,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0544.tar.gz,,true,true,true,324.64495,28.247
+566,id_test_0510,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0510.tar.gz,,true,true,true,388.62891,30.650
+567,id_test_0506,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0506.tar.gz,,true,true,true,358.51986,48.612
+568,id_test_0527,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0527.tar.gz,,true,true,true,336.91458,22.118
+569,id_test_0598,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0598.tar.gz,,true,true,true,365.42444,84.992
+570,id_test_0559,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0559.tar.gz,,true,true,true,315.10666,37.162
+571,id_test_0560,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0560.tar.gz,,true,true,true,376.23301,63.956
+572,id_test_0521,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0521.tar.gz,,true,true,true,321.53154,16.746
+573,id_test_0582,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0582.tar.gz,,true,true,true,394.28418,196.119
+574,id_test_0563,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0563.tar.gz,,true,true,true,374.90762,214.996
+575,id_test_0524,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0524.tar.gz,,true,true,true,324.98228,45.597
+576,id_test_0570,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0570.tar.gz,,true,true,true,406.55168,29.592
+577,id_test_0586,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0586.tar.gz,,true,true,true,433.16539,84.790
+578,id_test_0507,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0507.tar.gz,,true,true,true,351.50722,33.952
+579,id_test_0508,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0508.tar.gz,,true,true,true,343.04013,14.375
+580,id_test_0534,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0534.tar.gz,,true,true,true,360.03104,28.514
+581,id_test_0585,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0585.tar.gz,,true,true,true,337.19725,17.605
+582,id_test_0541,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0541.tar.gz,,true,true,true,342.06862,18.376
+583,id_test_0522,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0522.tar.gz,,true,true,true,385.06289,27.787
+584,id_test_0583,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0583.tar.gz,,true,true,true,344.63292,14.308
+585,id_test_0554,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0554.tar.gz,,true,true,true,339.27032,37.638
+586,id_test_0525,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0525.tar.gz,,true,true,true,365.04487,77.001
+587,id_test_0511,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0511.tar.gz,,true,true,true,361.78522,40.226
+588,id_test_0587,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0587.tar.gz,,true,true,true,374.02178,43.986
+589,id_test_0528,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0528.tar.gz,,true,true,true,354.97554,21.596
+590,id_test_0509,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0509.tar.gz,,true,true,true,326.23674,27.562
+591,id_test_0500,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0500.tar.gz,,true,true,true,345.86487,21.609
+592,id_test_0591,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0591.tar.gz,,true,true,true,374.42873,24.526
+593,id_test_0502,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0502.tar.gz,,true,true,true,387.18651,40.971
+594,id_test_0578,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0578.tar.gz,,true,true,true,388.15502,41.198
+595,id_test_0569,id_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,543.23567,124.530
+596,id_test_0535,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0535.tar.gz,,true,true,true,352.23165,14.006
+597,id_test_0571,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0571.tar.gz,,true,true,true,367.46113,20.067
+598,id_test_0577,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0577.tar.gz,,true,true,true,382.90115,39.767
+599,id_test_0558,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_0558.tar.gz,,true,true,true,384.96078,40.474
+600,id_test_0594,id_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,592.42381,77.831
+601,ood_test_0037,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0037.tar.gz,,true,true,true,346.1127,35.293
+602,ood_test_0145,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0145.tar.gz,,true,true,true,334.22849,78.200
+603,ood_test_0067,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0067.tar.gz,,true,true,true,299.59459,22.977
+604,ood_test_0091,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0091.tar.gz,,true,true,true,339.17205,38.628
+605,ood_test_0001,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0001.tar.gz,,true,true,true,316.5666,18.454
+606,ood_test_0055,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0055.tar.gz,,true,true,true,373.7336,64.908
+607,ood_test_0079,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,641.40681,77.626
+608,ood_test_0016,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0016.tar.gz,,true,true,true,385.23852,159.667
+609,ood_test_0058,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0058.tar.gz,,true,true,true,318.86042,151.821
+610,ood_test_0004,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0004.tar.gz,,true,true,true,354.11621,150.154
+611,ood_test_0100,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,348.13426,427.885
+612,ood_test_0035,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,351.36137,233.199
+613,ood_test_0113,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0113.tar.gz,,true,true,true,317.00569,46.862
+614,ood_test_0119,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0119.tar.gz,,true,true,true,375.41225,31.980
+615,ood_test_0089,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,834.34768,79.271
+616,ood_test_0146,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0146.tar.gz,,true,true,true,409.28333,91.631
+617,ood_test_0074,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0074.tar.gz,,true,true,true,340.95279,138.506
+618,ood_test_0093,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,335.18771,88.101
+619,ood_test_0081,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,342.16542,158.110
+620,ood_test_0069,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw outlet enthalpy check failed,false,false,true,330.19985,166.778
+621,ood_test_0057,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0057.tar.gz,,true,true,true,308.9536,43.181
+622,ood_test_0117,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0117.tar.gz,,true,true,true,353.15633,96.360
+623,ood_test_0147,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0147.tar.gz,,true,true,true,478.81111,42.499
+624,ood_test_0072,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0072.tar.gz,,true,true,true,338.83278,76.054
+625,ood_test_0036,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,304.64259,214.075
+626,ood_test_0006,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0006.tar.gz,,true,true,true,321.6376,43.359
+627,ood_test_0061,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0061.tar.gz,,true,true,true,311.21268,21.803
+628,ood_test_0085,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0085.tar.gz,,true,true,true,303.09936,69.411
+629,ood_test_0121,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0121.tar.gz,,true,true,true,390.45408,28.726
+630,ood_test_0097,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0097.tar.gz,,true,true,true,448.61316,61.519
+631,ood_test_0031,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0031.tar.gz,,true,true,true,428.90364,60.614
+632,ood_test_0007,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,574.81654,43.167
+633,ood_test_0022,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,422.57597,294.229
+634,ood_test_0130,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0130.tar.gz,,true,true,true,457.89539,98.501
+635,ood_test_0112,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0112.tar.gz,,true,true,true,360.79624,86.016
+636,ood_test_0052,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,700.59602,132.543
+637,ood_test_0065,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0065.tar.gz,,true,true,true,443.31674,144.412
+638,ood_test_0041,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0041.tar.gz,,true,true,true,306.19816,40.805
+639,ood_test_0101,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0101.tar.gz,,true,true,true,412.36561,42.111
+640,ood_test_0143,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,1016.8383,59.821
+641,ood_test_0086,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0086.tar.gz,,true,true,true,371.64749,125.196
+642,ood_test_0050,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0050.tar.gz,,true,true,true,322.33869,157.342
+643,ood_test_0063,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,351.84453,158.092
+644,ood_test_0099,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0099.tar.gz,,true,true,true,363.64731,72.486
+645,ood_test_0129,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0129.tar.gz,,true,true,true,412.64741,53.304
+646,ood_test_0045,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0045.tar.gz,,true,true,true,317.98762,45.197
+647,ood_test_0105,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0105.tar.gz,,true,true,true,350.80596,29.701
+648,ood_test_0138,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0138.tar.gz,,true,true,true,326.86877,215.142
+649,ood_test_0090,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0090.tar.gz,,true,true,true,321.64523,328.642
+650,ood_test_0054,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,318.92752,347.524
+651,ood_test_0013,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0013.tar.gz,,true,true,true,321.82354,38.259
+652,ood_test_0139,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0139.tar.gz,,true,true,true,459.17924,71.686
+653,ood_test_0133,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0133.tar.gz,,true,true,true,437.18168,37.283
+654,ood_test_0025,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0025.tar.gz,,true,true,true,368.97855,29.048
+655,ood_test_0019,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,534.27908,41.577
+656,ood_test_0010,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,476.48188,583.081
+657,ood_test_0064,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0064.tar.gz,,true,true,true,337.49943,123.278
+658,ood_test_0106,ood_test,dropped,false,true,true,false,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0106.tar.gz,raw temperature extrema check failed,true,true,false,978.55215,163.619
+659,ood_test_0059,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0059.tar.gz,,true,true,true,342.22602,29.895
+660,ood_test_0017,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0017.tar.gz,,true,true,true,465.44708,131.180
+661,ood_test_0107,ood_test,dropped,false,true,true,false,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0107.tar.gz,raw temperature extrema check failed,true,true,false,670.38838,83.310
+662,ood_test_0047,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,852.91864,178.096
+663,ood_test_0128,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0128.tar.gz,,true,true,true,421.82943,165.046
+664,ood_test_0092,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,692.87152,126.880
+665,ood_test_0075,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0075.tar.gz,,true,true,true,370.55217,40.473
+666,ood_test_0141,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0141.tar.gz,,true,true,true,350.21675,28.970
+667,ood_test_0135,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0135.tar.gz,,true,true,true,383.02992,38.019
+668,ood_test_0021,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0021.tar.gz,,true,true,true,355.94349,29.086
+669,ood_test_0123,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0123.tar.gz,,true,true,true,388.66739,9.874
+670,ood_test_0120,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,347.6054,316.796
+671,ood_test_0132,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0132.tar.gz,,true,true,true,365.79289,159.325
+672,ood_test_0000,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0000.tar.gz,,true,true,true,359.51459,52.569
+673,ood_test_0109,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0109.tar.gz,,true,true,true,350.62663,25.504
+674,ood_test_0043,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,620.01517,167.681
+675,ood_test_0115,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0115.tar.gz,,true,true,true,368.22581,27.227
+676,ood_test_0076,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0076.tar.gz,,true,true,true,450.81426,220.515
+677,ood_test_0094,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0094.tar.gz,,true,true,true,393.9913,182.242
+678,ood_test_0040,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0040.tar.gz,,true,true,true,394.78012,75.723
+679,ood_test_0083,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0083.tar.gz,,true,true,true,402.8048,51.726
+680,ood_test_0011,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0011.tar.gz,,true,true,true,342.93295,75.796
+681,ood_test_0137,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0137.tar.gz,,true,true,true,375.37382,88.789
+682,ood_test_0053,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,579.40274,15.122
+683,ood_test_0122,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,704.33959,156.856
+684,ood_test_0056,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0056.tar.gz,,true,true,true,339.91015,58.949
+685,ood_test_0015,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0015.tar.gz,,true,true,true,360.09848,18.787
+686,ood_test_0051,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0051.tar.gz,,true,true,true,364.99063,30.686
+687,ood_test_0024,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0024.tar.gz,,true,true,true,315.66247,48.758
+688,ood_test_0042,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0042.tar.gz,,true,true,true,349.17112,155.269
+689,ood_test_0084,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0084.tar.gz,,true,true,true,402.76325,57.179
+690,ood_test_0103,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,564.11397,171.875
+691,ood_test_0073,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0073.tar.gz,,true,true,true,380.19933,37.470
+692,ood_test_0148,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0148.tar.gz,,true,true,true,437.53174,186.710
+693,ood_test_0028,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,578.09058,485.853
+694,ood_test_0070,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0070.tar.gz,,true,true,true,399.0385,166.368
+695,ood_test_0023,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0023.tar.gz,,true,true,true,367.48205,24.867
+696,ood_test_0029,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,703.81046,305.714
+697,ood_test_0038,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,980.77119,95.922
+698,ood_test_0068,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,809.1855,78.864
+699,ood_test_0009,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0009.tar.gz,,true,true,true,366.79652,18.049
+700,ood_test_0039,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0039.tar.gz,,true,true,true,391.12684,42.605
+701,ood_test_0066,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0066.tar.gz,,true,true,true,349.50208,86.324
+702,ood_test_0030,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,317.16711,191.670
+703,ood_test_0048,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0048.tar.gz,,true,true,true,448.1515,52.526
+704,ood_test_0049,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,580.00917,32.184
+705,ood_test_0118,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,702.70231,82.761
+706,ood_test_0124,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0124.tar.gz,,true,true,true,391.49133,172.213
+707,ood_test_0136,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0136.tar.gz,,true,true,true,454.10177,111.172
+708,ood_test_0071,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0071.tar.gz,,true,true,true,460.70924,158.305
+709,ood_test_0008,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,525.9408,107.765
+710,ood_test_0032,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,1046.9704,80.616
+711,ood_test_0003,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0003.tar.gz,,true,true,true,389.95334,26.636
+712,ood_test_0108,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0108.tar.gz,,true,true,true,358.02388,103.452
+713,ood_test_0114,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,344.83829,212.839
+714,ood_test_0127,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0127.tar.gz,,true,true,true,359.18077,8.099
+715,ood_test_0046,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,524.05878,83.242
+716,ood_test_0034,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0034.tar.gz,,true,true,true,466.0982,94.065
+717,ood_test_0142,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,882.025,117.069
+718,ood_test_0125,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0125.tar.gz,,true,true,true,444.94236,80.662
+719,ood_test_0020,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,847.79624,89.767
+720,ood_test_0140,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,852.79497,87.192
+721,ood_test_0033,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0033.tar.gz,,true,true,true,384.70948,34.621
+722,ood_test_0144,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0144.tar.gz,,true,true,true,397.65455,85.237
+723,ood_test_0012,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0012.tar.gz,,true,true,true,396.94795,55.854
+724,ood_test_0088,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0088.tar.gz,,true,true,true,412.28675,72.578
+725,ood_test_0005,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,712.30043,118.375
+726,ood_test_0110,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,520.30155,84.406
+727,ood_test_0044,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0044.tar.gz,,true,true,true,424.52261,100.498
+728,ood_test_0111,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0111.tar.gz,,true,true,true,386.39879,23.411
+729,ood_test_0018,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0018.tar.gz,,true,true,true,400.79871,77.750
+730,ood_test_0078,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0078.tar.gz,,true,true,true,432.3185,105.853
+731,ood_test_0082,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,625.08105,345.410
+732,ood_test_0095,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,582.82663,39.032
+733,ood_test_0062,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0062.tar.gz,,true,true,true,408.61961,35.254
+734,ood_test_0002,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,981.79423,120.836
+735,ood_test_0027,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0027.tar.gz,,true,true,true,346.34648,6.616
+736,ood_test_0060,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0060.tar.gz,,true,true,true,416.52077,109.596
+737,ood_test_0126,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0126.tar.gz,,true,true,true,371.00977,78.123
+738,ood_test_0131,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0131.tar.gz,,true,true,true,465.37801,83.570
+739,ood_test_0014,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,668.67357,120.411
+740,ood_test_0080,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,1227.6172,403.877
+741,ood_test_0087,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0087.tar.gz,,true,true,true,383.54113,5.231
+742,ood_test_0096,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,375.74008,235.569
+743,ood_test_0102,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0102.tar.gz,,true,true,true,421.63067,144.323
+744,ood_test_0077,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,533.69352,115.395
+745,ood_test_0134,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,1078.6974,83.170
+746,ood_test_0116,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,839.05997,157.932
+747,ood_test_0149,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_0149.tar.gz,,true,true,true,352.80153,19.029
+748,ood_test_0098,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,841.22505,104.015
+749,ood_test_0104,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,1604.5931,253.681
+750,ood_test_0026,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,786.01344,115.304
+751,ood_fresh_0015,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0015.tar.gz,,true,true,true,331.4872,128.398
+752,ood_fresh_0033,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0033.tar.gz,,true,true,true,306.69248,33.699
+753,ood_fresh_0085,ood_fresh,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,317.44919,405.783
+754,ood_fresh_0011,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0011.tar.gz,,true,true,true,353.68664,48.097
+755,ood_fresh_0065,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,585.64056,71.928
+756,ood_fresh_0069,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0069.tar.gz,,true,true,true,328.87265,67.039
+757,ood_fresh_0003,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0003.tar.gz,,true,true,true,319.32142,41.412
+758,ood_fresh_0051,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0051.tar.gz,,true,true,true,316.1924,57.764
+759,ood_fresh_0077,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0077.tar.gz,,true,true,true,342.09923,55.538
+760,ood_fresh_0059,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,511.9123,55.848
+761,ood_fresh_0018,ood_fresh,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,320.33403,277.024
+762,ood_fresh_0024,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0024.tar.gz,,true,true,true,311.23824,117.485
+763,ood_fresh_0042,ood_fresh,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,369.50504,363.165
+764,ood_fresh_0044,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0044.tar.gz,,true,true,true,350.87124,139.833
+765,ood_fresh_0002,ood_fresh,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,363.04257,500.247
+766,ood_fresh_0063,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0063.tar.gz,,true,true,true,343.09146,31.641
+767,ood_fresh_0087,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0087.tar.gz,,true,true,true,330.89288,49.159
+768,ood_fresh_0049,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0049.tar.gz,,true,true,true,328.90906,47.458
+769,ood_fresh_0053,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0053.tar.gz,,true,true,true,342.31867,36.548
+770,ood_fresh_0083,ood_fresh,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,516.29898,370.620
+771,ood_fresh_0045,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0045.tar.gz,,true,true,true,352.45882,48.929
+772,ood_fresh_0037,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0037.tar.gz,,true,true,true,339.17958,39.957
+773,ood_fresh_0007,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0007.tar.gz,,true,true,true,463.80873,56.906
+774,ood_fresh_0035,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0035.tar.gz,,true,true,true,475.66329,36.035
+775,ood_fresh_0089,ood_fresh,dropped,false,true,true,false,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0089.tar.gz,raw temperature extrema check failed,true,true,false,1033.5308,105.378
+776,ood_fresh_0030,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0030.tar.gz,,true,true,true,398.73915,174.321
+777,ood_fresh_0006,ood_fresh,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,322.47498,295.948
+778,ood_fresh_0022,ood_fresh,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,484.6289,589.285
+779,ood_fresh_0070,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0070.tar.gz,,true,true,true,341.33139,158.179
+780,ood_fresh_0014,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0014.tar.gz,,true,true,true,375.11102,261.309
+781,ood_fresh_0039,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0039.tar.gz,,true,true,true,317.88882,42.481
+782,ood_fresh_0067,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0067.tar.gz,,true,true,true,338.62954,38.881
+783,ood_fresh_0041,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0041.tar.gz,,true,true,true,430.74232,131.999
+784,ood_fresh_0023,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,614.1659,121.019
+785,ood_fresh_0009,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0009.tar.gz,,true,true,true,317.95125,12.948
+786,ood_fresh_0075,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0075.tar.gz,,true,true,true,451.93927,49.749
+787,ood_fresh_0019,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0019.tar.gz,,true,true,true,356.77174,8.873
+788,ood_fresh_0047,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,498.86462,99.485
+789,ood_fresh_0054,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0054.tar.gz,,true,true,true,334.71813,128.910
+790,ood_fresh_0066,ood_fresh,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,335.32985,298.096
+791,ood_fresh_0048,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0048.tar.gz,,true,true,true,440.65189,151.138
+792,ood_fresh_0026,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0026.tar.gz,,true,true,true,394.20846,95.587
+793,ood_fresh_0086,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,500.95443,186.436
+794,ood_fresh_0001,ood_fresh,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,345.60856,340.604
+795,ood_fresh_0027,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0027.tar.gz,,true,true,true,370.14825,47.216
+796,ood_fresh_0071,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0071.tar.gz,,true,true,true,362.94801,29.568
+797,ood_fresh_0005,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,837.06615,146.202
+798,ood_fresh_0081,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0081.tar.gz,,true,true,true,352.8724,35.770
+799,ood_fresh_0031,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0031.tar.gz,,true,true,true,345.12798,40.064
+800,ood_fresh_0060,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0060.tar.gz,,true,true,true,404.27947,224.539
+801,ood_fresh_0084,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0084.tar.gz,,true,true,true,402.33993,135.931
+802,ood_fresh_0028,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0028.tar.gz,,true,true,true,421.20202,238.948
+803,ood_fresh_0088,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,616.92967,133.289
+804,ood_fresh_0056,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,504.42557,126.388
+805,ood_fresh_0061,ood_fresh,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,387.16576,342.029
+806,ood_fresh_0029,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,554.24916,74.993
+807,ood_fresh_0021,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0021.tar.gz,,true,true,true,399.75683,46.606
+808,ood_fresh_0013,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0013.tar.gz,,true,true,true,361.2734,13.601
+809,ood_fresh_0000,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0000.tar.gz,,true,true,true,355.2369,234.062
+810,ood_fresh_0072,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0072.tar.gz,,true,true,true,369.56826,143.582
+811,ood_fresh_0046,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,544.57645,463.437
+812,ood_fresh_0038,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,632.78897,190.999
+813,ood_fresh_0008,ood_fresh,dropped,false,true,true,false,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0008.tar.gz,raw temperature extrema check failed,true,true,false,1137.5918,154.835
+814,ood_fresh_0073,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0073.tar.gz,,true,true,true,304.74514,18.263
+815,ood_fresh_0017,ood_fresh,dropped,false,true,true,false,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0017.tar.gz,raw temperature extrema check failed,true,true,false,1038.6986,165.638
+816,ood_fresh_0057,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0057.tar.gz,,true,true,true,331.044,28.331
+817,ood_fresh_0012,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0012.tar.gz,,true,true,true,350.40867,130.981
+818,ood_fresh_0034,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,493.74352,148.001
+819,ood_fresh_0064,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,647.19393,473.183
+820,ood_fresh_0058,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,779.71179,127.908
+821,ood_fresh_0062,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,706.21384,219.743
+822,ood_fresh_0043,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0043.tar.gz,,true,true,true,304.34199,18.546
+823,ood_fresh_0055,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0055.tar.gz,,true,true,true,349.53279,43.569
+824,ood_fresh_0078,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0078.tar.gz,,true,true,true,378.58738,176.830
+825,ood_fresh_0010,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,655.25446,131.378
+826,ood_fresh_0004,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,587.5159,160.899
+827,ood_fresh_0080,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,630.18728,149.994
+828,ood_fresh_0020,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0020.tar.gz,,true,true,true,485.10243,104.757
+829,ood_fresh_0025,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0025.tar.gz,,true,true,true,336.43396,35.164
+830,ood_fresh_0079,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0079.tar.gz,,true,true,true,385.89436,35.101
+831,ood_fresh_0036,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0036.tar.gz,,true,true,true,419.08872,97.841
+832,ood_fresh_0076,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,496.69599,157.838
+833,ood_fresh_0040,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,1102.5214,150.392
+834,ood_fresh_0074,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,724.19085,220.600
+835,ood_fresh_0052,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,506.30494,302.257
+836,ood_fresh_0082,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0082.tar.gz,,true,true,true,455.66899,69.146
+837,ood_fresh_0068,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,806.25896,110.432
+838,ood_fresh_0032,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,574.8596,107.094
+839,ood_fresh_0050,ood_fresh,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,779.96688,162.068
+840,ood_fresh_0016,ood_fresh,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_fresh_0016.tar.gz,,true,true,true,488.55936,69.417
+841,id_train_pbf01_0020,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0020.tar.gz,,true,true,true,344.9425,96.691
+842,id_train_pbf01_0019,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0019.tar.gz,,true,true,true,309.10374,19.138
+843,id_train_pbf01_0018,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0018.tar.gz,,true,true,true,426.65292,169.899
+844,id_train_pbf01_0033,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0033.tar.gz,,true,true,true,323.4995,31.992
+845,id_train_pbf01_0034,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0034.tar.gz,,true,true,true,332.18401,10.549
+846,id_train_pbf01_0035,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0035.tar.gz,,true,true,true,381.32955,27.102
+847,id_train_pbf01_0041,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0041.tar.gz,,true,true,true,348.36494,74.979
+848,id_train_pbf01_0039,id_train,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,594.65661,81.806
+849,id_train_pbf01_0040,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0040.tar.gz,,true,true,true,404.63948,24.160
+850,id_train_pbf01_0028,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0028.tar.gz,,true,true,true,336.54655,69.792
+851,id_train_pbf01_0029,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0029.tar.gz,,true,true,true,343.28654,23.319
+852,id_train_pbf01_0027,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0027.tar.gz,,true,true,true,344.35524,21.816
+853,id_train_pbf01_0023,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0023.tar.gz,,true,true,true,311.6914,218.850
+854,id_train_pbf01_0021,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0021.tar.gz,,true,true,true,339.55237,33.493
+855,id_train_pbf01_0022,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0022.tar.gz,,true,true,true,356.20184,31.774
+856,id_train_pbf01_0010,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,348.70356,194.172
+857,id_train_pbf01_0009,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0009.tar.gz,,true,true,true,414.51531,64.632
+858,id_train_pbf01_0011,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0011.tar.gz,,true,true,true,385.21426,14.682
+859,id_train_pbf01_0013,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0013.tar.gz,,true,true,true,302.52853,58.001
+860,id_train_pbf01_0012,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0012.tar.gz,,true,true,true,309.93127,33.315
+861,id_train_pbf01_0014,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0014.tar.gz,,true,true,true,386.66077,153.803
+862,id_train_pbf01_0016,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0016.tar.gz,,true,true,true,310.81203,27.571
+863,id_train_pbf01_0015,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0015.tar.gz,,true,true,true,340.08247,47.472
+864,id_train_pbf01_0017,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0017.tar.gz,,true,true,true,326.28356,32.030
+865,id_train_pbf01_0024,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0024.tar.gz,,true,true,true,303.12586,40.749
+866,id_train_pbf01_0026,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0026.tar.gz,,true,true,true,326.93535,167.636
+867,id_train_pbf01_0025,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0025.tar.gz,,true,true,true,317.86196,38.704
+868,id_train_pbf01_0038,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0038.tar.gz,,true,true,true,303.37951,30.044
+869,id_train_pbf01_0037,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0037.tar.gz,,true,true,true,362.3888,43.479
+870,id_train_pbf01_0036,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0036.tar.gz,,true,true,true,337.74983,39.664
+871,id_train_pbf01_0006,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,302.73711,114.219
+872,id_train_pbf01_0007,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0007.tar.gz,,true,true,true,305.20687,25.372
+873,id_train_pbf01_0008,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0008.tar.gz,,true,true,true,395.97763,109.790
+874,id_train_pbf01_0003,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0003.tar.gz,,true,true,true,318.99074,57.523
+875,id_train_pbf01_0005,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0005.tar.gz,,true,true,true,314.33166,32.176
+876,id_train_pbf01_0004,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0004.tar.gz,,true,true,true,351.43813,18.405
+877,id_train_pbf01_0031,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0031.tar.gz,,true,true,true,322.63238,44.921
+878,id_train_pbf01_0030,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0030.tar.gz,,true,true,true,362.63646,16.263
+879,id_train_pbf01_0032,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0032.tar.gz,,true,true,true,380.13448,31.301
+880,id_train_pbf01_0001,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0001.tar.gz,,true,true,true,348.47233,12.567
+881,id_train_pbf01_0000,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0000.tar.gz,,true,true,true,358.72501,30.349
+882,id_train_pbf01_0002,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf01_0002.tar.gz,,true,true,true,362.03671,14.568
+883,ood_test_pbf01_0003,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf01_0003.tar.gz,,true,true,true,485.72821,131.698
+884,ood_test_pbf01_0001,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,592.88431,138.928
+885,ood_test_pbf01_0000,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,752.48597,113.165
+886,ood_test_pbf01_0002,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf01_0002.tar.gz,,true,true,true,480.30081,179.021
+887,ood_test_pbf01_0004,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf01_0004.tar.gz,,true,true,true,447.52531,54.401
+888,ood_test_pbf01_0007,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf01_0007.tar.gz,,true,true,true,414.47901,43.287
+889,ood_test_pbf01_0006,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf01_0006.tar.gz,,true,true,true,349.46828,93.953
+890,ood_test_pbf01_0005,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf01_0005.tar.gz,,true,true,true,433.3776,23.296
+891,id_train_pbf02_0018,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0018.tar.gz,,true,true,true,364.45657,47.141
+892,id_train_pbf02_0019,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0019.tar.gz,,true,true,true,315.46655,13.170
+893,id_train_pbf02_0020,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0020.tar.gz,,true,true,true,421.58198,197.281
+894,id_train_pbf02_0072,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,320.71746,248.513
+895,id_train_pbf02_0073,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0073.tar.gz,,true,true,true,345.29149,125.856
+896,id_train_pbf02_0074,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0074.tar.gz,,true,true,true,369.35427,31.283
+897,id_train_pbf02_0034,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0034.tar.gz,,true,true,true,308.14519,74.803
+898,id_train_pbf02_0033,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0033.tar.gz,,true,true,true,318.29127,12.234
+899,id_train_pbf02_0035,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0035.tar.gz,,true,true,true,441.4042,125.496
+900,id_train_pbf02_0040,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0040.tar.gz,,true,true,true,311.8414,30.285
+901,id_train_pbf02_0041,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0041.tar.gz,,true,true,true,429.70091,77.304
+902,id_train_pbf02_0039,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0039.tar.gz,,true,true,true,347.09974,15.553
+903,id_train_pbf02_0059,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0059.tar.gz,,true,true,true,307.75417,157.904
+904,id_train_pbf02_0058,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,341.88691,234.268
+905,id_train_pbf02_0057,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0057.tar.gz,,true,true,true,402.33147,68.273
+906,id_train_pbf02_0063,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0063.tar.gz,,true,true,true,331.55463,38.160
+907,id_train_pbf02_0064,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0064.tar.gz,,true,true,true,334.78651,37.827
+908,id_train_pbf02_0065,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,332.40404,184.331
+909,id_train_pbf02_0045,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0045.tar.gz,,true,true,true,304.52622,54.248
+910,id_train_pbf02_0047,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0047.tar.gz,,true,true,true,311.15193,48.358
+911,id_train_pbf02_0046,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0046.tar.gz,,true,true,true,314.38296,13.455
+912,id_train_pbf02_0027,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0027.tar.gz,,true,true,true,305.26703,21.358
+913,id_train_pbf02_0029,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0029.tar.gz,,true,true,true,414.9762,50.425
+914,id_train_pbf02_0028,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0028.tar.gz,,true,true,true,363.53687,157.351
+915,id_train_pbf02_0021,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0021.tar.gz,,true,true,true,342.64665,95.550
+916,id_train_pbf02_0023,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0023.tar.gz,,true,true,true,343.4975,31.606
+917,id_train_pbf02_0022,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0022.tar.gz,,true,true,true,362.88537,64.334
+918,id_train_pbf02_0086,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,311.66608,155.056
+919,id_train_pbf02_0084,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0084.tar.gz,,true,true,true,313.61824,23.306
+920,id_train_pbf02_0085,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0085.tar.gz,,true,true,true,383.99364,47.580
+921,id_train_pbf02_0009,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0009.tar.gz,,true,true,true,328.22242,108.705
+922,id_train_pbf02_0010,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0010.tar.gz,,true,true,true,314.50887,78.238
+923,id_train_pbf02_0011,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0011.tar.gz,,true,true,true,361.90205,48.505
+924,id_train_pbf02_0066,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0066.tar.gz,,true,true,true,311.20237,43.341
+925,id_train_pbf02_0067,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0067.tar.gz,,true,true,true,316.22806,58.822
+926,id_train_pbf02_0068,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0068.tar.gz,,true,true,true,330.96715,21.640
+927,id_train_pbf02_0012,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,326.34397,308.452
+928,id_train_pbf02_0013,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0013.tar.gz,,true,true,true,322.7715,28.606
+929,id_train_pbf02_0014,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0014.tar.gz,,true,true,true,441.64101,109.235
+930,id_train_pbf02_0043,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0043.tar.gz,,true,true,true,363.50384,123.911
+931,id_train_pbf02_0044,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0044.tar.gz,,true,true,true,332.50808,44.083
+932,id_train_pbf02_0042,id_train,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,585.83427,108.853
+933,id_train_pbf02_0061,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0061.tar.gz,,true,true,true,344.84104,65.633
+934,id_train_pbf02_0062,id_train,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,351.67737,180.307
+935,id_train_pbf02_0060,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0060.tar.gz,,true,true,true,352.08801,34.915
+936,id_train_pbf02_0016,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0016.tar.gz,,true,true,true,299.86562,38.193
+937,id_train_pbf02_0015,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0015.tar.gz,,true,true,true,363.51633,27.133
+938,id_train_pbf02_0017,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0017.tar.gz,,true,true,true,320.08755,9.842
+939,id_train_pbf02_0024,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0024.tar.gz,,true,true,true,319.19049,24.426
+940,id_train_pbf02_0026,id_train,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_train_pbf02_0026.tar.gz,,true,true,true,397.67969,66.468
+941,id_train_pbf02_0025,id_train,unattempted,,,false,false,,,,,,,
+942,id_train_pbf02_0038,id_train,unattempted,,,false,false,,,,,,,
+943,id_train_pbf02_0037,id_train,unattempted,,,false,false,,,,,,,
+944,id_train_pbf02_0036,id_train,unattempted,,,false,false,,,,,,,
+945,id_train_pbf02_0079,id_train,unattempted,,,false,false,,,,,,,
+946,id_train_pbf02_0078,id_train,unattempted,,,false,false,,,,,,,
+947,id_train_pbf02_0080,id_train,unattempted,,,false,false,,,,,,,
+948,id_train_pbf02_0006,id_train,unattempted,,,false,false,,,,,,,
+949,id_train_pbf02_0008,id_train,unattempted,,,false,false,,,,,,,
+950,id_train_pbf02_0007,id_train,unattempted,,,false,false,,,,,,,
+951,id_train_pbf02_0071,id_train,unattempted,,,false,false,,,,,,,
+952,id_train_pbf02_0069,id_train,unattempted,,,false,false,,,,,,,
+953,id_train_pbf02_0070,id_train,unattempted,,,false,false,,,,,,,
+954,id_train_pbf02_0048,id_train,unattempted,,,false,false,,,,,,,
+955,id_train_pbf02_0049,id_train,unattempted,,,false,false,,,,,,,
+956,id_train_pbf02_0050,id_train,unattempted,,,false,false,,,,,,,
+957,id_train_pbf02_0005,id_train,unattempted,,,false,false,,,,,,,
+958,id_train_pbf02_0004,id_train,unattempted,,,false,false,,,,,,,
+959,id_train_pbf02_0003,id_train,unattempted,,,false,false,,,,,,,
+960,id_train_pbf02_0051,id_train,unattempted,,,false,false,,,,,,,
+961,id_train_pbf02_0053,id_train,unattempted,,,false,false,,,,,,,
+962,id_train_pbf02_0052,id_train,unattempted,,,false,false,,,,,,,
+963,id_train_pbf02_0055,id_train,unattempted,,,false,false,,,,,,,
+964,id_train_pbf02_0056,id_train,unattempted,,,false,false,,,,,,,
+965,id_train_pbf02_0054,id_train,unattempted,,,false,false,,,,,,,
+966,id_train_pbf02_0032,id_train,unattempted,,,false,false,,,,,,,
+967,id_train_pbf02_0030,id_train,unattempted,,,false,false,,,,,,,
+968,id_train_pbf02_0031,id_train,unattempted,,,false,false,,,,,,,
+969,id_train_pbf02_0082,id_train,unattempted,,,false,false,,,,,,,
+970,id_train_pbf02_0081,id_train,unattempted,,,false,false,,,,,,,
+971,id_train_pbf02_0083,id_train,unattempted,,,false,false,,,,,,,
+972,id_train_pbf02_0001,id_train,unattempted,,,false,false,,,,,,,
+973,id_train_pbf02_0002,id_train,unattempted,,,false,false,,,,,,,
+974,id_train_pbf02_0000,id_train,unattempted,,,false,false,,,,,,,
+975,id_train_pbf02_0075,id_train,unattempted,,,false,false,,,,,,,
+976,id_train_pbf02_0076,id_train,unattempted,,,false,false,,,,,,,
+977,id_train_pbf02_0077,id_train,unattempted,,,false,false,,,,,,,
+978,ood_test_pbf02_0000,ood_test,unattempted,,,false,false,,,,,,,
+979,ood_test_pbf02_0002,ood_test,unattempted,,,false,false,,,,,,,
+980,ood_test_pbf02_0003,ood_test,unattempted,,,false,false,,,,,,,
+981,ood_test_pbf02_0001,ood_test,unattempted,,,false,false,,,,,,,
+982,ood_test_pbf02_0007,ood_test,unattempted,,,false,false,,,,,,,
+983,ood_test_pbf02_0006,ood_test,unattempted,,,false,false,,,,,,,
+984,ood_test_pbf02_0005,ood_test,unattempted,,,false,false,,,,,,,
+985,ood_test_pbf02_0004,ood_test,unattempted,,,false,false,,,,,,,
+986,id_calibration_pbf03_0001,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_pbf03_0001.tar.gz,,true,true,true,347.467,47.883
+987,id_calibration_pbf03_0003,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_pbf03_0003.tar.gz,,true,true,true,459.14694,141.019
+988,id_calibration_pbf03_0004,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_pbf03_0004.tar.gz,,true,true,true,319.37339,29.654
+989,id_calibration_pbf03_0000,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_pbf03_0000.tar.gz,,true,true,true,411.72118,30.865
+990,id_calibration_pbf03_0002,id_calibration,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_calibration_pbf03_0002.tar.gz,,true,true,true,309.33777,21.775
+991,id_test_pbf03_0001,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_pbf03_0001.tar.gz,,true,true,true,378.80215,51.223
+992,id_test_pbf03_0002,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_pbf03_0002.tar.gz,,true,true,true,311.88848,204.358
+993,id_test_pbf03_0003,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_pbf03_0003.tar.gz,,true,true,true,344.33205,8.472
+994,id_test_pbf03_0005,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_pbf03_0005.tar.gz,,true,true,true,342.81148,46.683
+995,id_test_pbf03_0006,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_pbf03_0006.tar.gz,,true,true,true,343.67575,44.109
+996,id_test_pbf03_0000,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_pbf03_0000.tar.gz,,true,true,true,454.25976,122.027
+997,id_test_pbf03_0004,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_pbf03_0004.tar.gz,,true,true,true,316.61814,50.212
+998,id_test_pbf03_0007,id_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/id_test_pbf03_0007.tar.gz,,true,true,true,300.04392,24.556
+999,ood_test_pbf03_0086,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0086.tar.gz,,true,true,true,333.45958,123.516
+1000,ood_test_pbf03_0087,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0087.tar.gz,,true,true,true,396.88213,251.158
+1001,ood_test_pbf03_0079,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0079.tar.gz,,true,true,true,346.24279,159.017
+1002,ood_test_pbf03_0078,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,554.03534,131.941
+1003,ood_test_pbf03_0016,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,671.09402,97.868
+1004,ood_test_pbf03_0017,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0017.tar.gz,,true,true,true,464.83549,54.628
+1005,ood_test_pbf03_0064,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,795.15704,163.817
+1006,ood_test_pbf03_0065,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,588.89092,115.178
+1007,ood_test_pbf03_0031,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,689.2786,165.150
+1008,ood_test_pbf03_0030,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,604.81306,165.335
+1009,ood_test_pbf03_0089,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0089.tar.gz,,true,true,true,400.81764,89.615
+1010,ood_test_pbf03_0088,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,1017.9143,593.665
+1011,ood_test_pbf03_0029,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,792.11453,121.431
+1012,ood_test_pbf03_0028,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,622.4092,93.773
+1013,ood_test_pbf03_0075,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,652.26094,161.883
+1014,ood_test_pbf03_0074,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,565.43512,112.070
+1015,ood_test_pbf03_0018,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,501.33375,434.159
+1016,ood_test_pbf03_0019,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,608.89027,342.003
+1017,ood_test_pbf03_0104,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,1189.0593,260.458
+1018,ood_test_pbf03_0105,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,604.95791,69.638
+1019,ood_test_pbf03_0051,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,757.51395,95.348
+1020,ood_test_pbf03_0050,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,713.88233,133.929
+1021,ood_test_pbf03_0053,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,454.77889,332.850
+1022,ood_test_pbf03_0052,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0052.tar.gz,,true,true,true,341.73225,25.848
+1023,ood_test_pbf03_0058,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0058.tar.gz,,true,true,true,409.77148,93.670
+1024,ood_test_pbf03_0059,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0059.tar.gz,,true,true,true,371.18483,57.952
+1025,ood_test_pbf03_0066,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,640.19855,100.593
+1026,ood_test_pbf03_0067,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,949.02385,127.046
+1027,ood_test_pbf03_0005,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,439.86764,399.642
+1028,ood_test_pbf03_0004,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0004.tar.gz,,true,true,true,440.77223,51.470
+1029,ood_test_pbf03_0014,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0014.tar.gz,,true,true,true,383.31672,139.721
+1030,ood_test_pbf03_0015,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,421.93369,297.700
+1031,ood_test_pbf03_0054,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,876.02917,171.430
+1032,ood_test_pbf03_0055,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,586.00993,416.142
+1033,ood_test_pbf03_0042,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0042.tar.gz,,true,true,true,349.08157,38.766
+1034,ood_test_pbf03_0043,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0043.tar.gz,,true,true,true,456.14272,230.805
+1035,ood_test_pbf03_0070,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,487.56641,344.042
+1036,ood_test_pbf03_0071,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,565.99297,68.508
+1037,ood_test_pbf03_0037,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0037.tar.gz,,true,true,true,477.37442,37.660
+1038,ood_test_pbf03_0036,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,656.33683,89.420
+1039,ood_test_pbf03_0060,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,572.84379,38.896
+1040,ood_test_pbf03_0061,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,671.52265,31.555
+1041,ood_test_pbf03_0020,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0020.tar.gz,,true,true,true,349.47954,102.275
+1042,ood_test_pbf03_0021,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0021.tar.gz,,true,true,true,380.40902,104.386
+1043,ood_test_pbf03_0045,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,697.41595,60.129
+1044,ood_test_pbf03_0044,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,509.53088,30.558
+1045,ood_test_pbf03_0026,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0026.tar.gz,,true,true,true,372.80517,71.896
+1046,ood_test_pbf03_0027,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0027.tar.gz,,true,true,true,470.15088,51.379
+1047,ood_test_pbf03_0024,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,328.26485,94.375
+1048,ood_test_pbf03_0025,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,351.52537,90.471
+1049,ood_test_pbf03_0056,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,545.22351,108.815
+1050,ood_test_pbf03_0057,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,1183.5622,80.534
+1051,ood_test_pbf03_0012,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0012.tar.gz,,true,true,true,305.95616,14.612
+1052,ood_test_pbf03_0013,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0013.tar.gz,,true,true,true,303.53522,9.561
+1053,ood_test_pbf03_0094,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0094.tar.gz,,true,true,true,345.23655,159.716
+1054,ood_test_pbf03_0095,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,510.16304,28.511
+1055,ood_test_pbf03_0001,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,765.13091,100.120
+1056,ood_test_pbf03_0000,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,767.66636,60.875
+1057,ood_test_pbf03_0091,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0091.tar.gz,,true,true,true,488.73894,118.784
+1058,ood_test_pbf03_0090,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,686.15201,60.997
+1059,ood_test_pbf03_0010,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,307.62144,93.287
+1060,ood_test_pbf03_0011,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0011.tar.gz,,true,true,true,393.06446,39.373
+1061,ood_test_pbf03_0082,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0082.tar.gz,,true,true,true,327.24394,80.782
+1062,ood_test_pbf03_0083,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,544.39955,333.071
+1063,ood_test_pbf03_0007,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,565.19024,36.451
+1064,ood_test_pbf03_0006,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0006.tar.gz,,true,true,true,456.12829,31.644
+1065,ood_test_pbf03_0039,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0039.tar.gz,,true,true,true,415.96773,111.680
+1066,ood_test_pbf03_0038,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,1021.8018,82.560
+1067,ood_test_pbf03_0009,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0009.tar.gz,,true,true,true,327.7433,20.838
+1068,ood_test_pbf03_0008,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0008.tar.gz,,true,true,true,355.0164,12.594
+1069,ood_test_pbf03_0085,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0085.tar.gz,,true,true,true,370.79048,26.168
+1070,ood_test_pbf03_0084,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0084.tar.gz,,true,true,true,324.91577,18.382
+1071,ood_test_pbf03_0093,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0093.tar.gz,,true,true,true,395.14727,45.797
+1072,ood_test_pbf03_0092,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0092.tar.gz,,true,true,true,417.81886,32.537
+1073,ood_test_pbf03_0100,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0100.tar.gz,,true,true,true,356.52237,89.397
+1074,ood_test_pbf03_0101,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,558.0313,53.735
+1075,ood_test_pbf03_0003,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,840.52576,76.442
+1076,ood_test_pbf03_0002,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,646.80223,58.327
+1077,ood_test_pbf03_0048,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0048.tar.gz,,true,true,true,460.96406,44.259
+1078,ood_test_pbf03_0049,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,580.08312,57.202
+1079,ood_test_pbf03_0102,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,532.11661,101.029
+1080,ood_test_pbf03_0103,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0103.tar.gz,,true,true,true,433.64324,91.904
+1081,ood_test_pbf03_0032,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,870.22984,117.230
+1082,ood_test_pbf03_0033,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,574.98919,178.713
+1083,ood_test_pbf03_0034,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0034.tar.gz,,true,true,true,460.15227,85.106
+1084,ood_test_pbf03_0035,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,1027.0686,61.252
+1085,ood_test_pbf03_0081,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0081.tar.gz,,true,true,true,434.89,345.872
+1086,ood_test_pbf03_0080,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,742.18529,150.962
+1087,ood_test_pbf03_0069,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0069.tar.gz,,true,true,true,376.86821,69.684
+1088,ood_test_pbf03_0068,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0068.tar.gz,,true,true,true,474.78183,101.824
+1089,ood_test_pbf03_0099,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0099.tar.gz,,true,true,true,364.61876,169.725
+1090,ood_test_pbf03_0098,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,494.00634,65.631
+1091,ood_test_pbf03_0062,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,579.80301,153.496
+1092,ood_test_pbf03_0063,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,450.66568,411.750
+1093,ood_test_pbf03_0040,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0040.tar.gz,,true,true,true,347.75761,120.339
+1094,ood_test_pbf03_0041,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,352.92263,279.158
+1095,ood_test_pbf03_0046,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,381.34654,481.373
+1096,ood_test_pbf03_0047,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,653.2384,225.350
+1097,ood_test_pbf03_0096,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,369.71394,413.473
+1098,ood_test_pbf03_0097,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,633.40913,76.578
+1099,ood_test_pbf03_0076,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,590.06652,173.200
+1100,ood_test_pbf03_0077,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,1191.0837,153.944
+1101,ood_test_pbf03_0072,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf03_0072.tar.gz,,true,true,true,404.20884,219.193
+1102,ood_test_pbf03_0073,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,1227.6066,177.470
+1103,ood_test_pbf03_0022,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,680.95378,70.678
+1104,ood_test_pbf03_0023,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,994.98632,88.922
+1105,ood_test_pbf04_0043,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,586.64088,150.093
+1106,ood_test_pbf04_0039,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf04_0039.tar.gz,,true,true,true,322.74415,63.315
+1107,ood_test_pbf04_0008,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,515.80458,51.500
+1108,ood_test_pbf04_0032,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,600.77893,595.912
+1109,ood_test_pbf04_0015,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,621.54276,168.682
+1110,ood_test_pbf04_0044,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,734.36617,154.690
+1111,ood_test_pbf04_0014,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf04_0014.tar.gz,,true,true,true,399.09635,46.864
+1112,ood_test_pbf04_0037,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,587.10705,127.312
+1113,ood_test_pbf04_0009,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,402.90353,449.793
+1114,ood_test_pbf04_0052,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed,false,true,false,765.02269,534.005
+1115,ood_test_pbf04_0025,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf04_0025.tar.gz,,true,true,true,386.67879,96.233
+1116,ood_test_pbf04_0026,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf04_0026.tar.gz,,true,true,true,300.46908,65.567
+1117,ood_test_pbf04_0029,ood_test,dropped,false,true,false,false,,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true,380.08963,306.076
+1118,ood_test_pbf04_0033,ood_test,dropped,false,true,false,false,,raw temperature extrema check failed,true,true,false,551.1039,178.843
+1119,ood_test_pbf04_0002,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf04_0002.tar.gz,,true,true,true,342.34401,78.145
+1120,ood_test_pbf04_0007,ood_test,retained,true,false,true,true,evidence_pack_tier2_steady/03_data/solver_outputs/ood_test_pbf04_0007.tar.gz,,true,true,true,320.26698,97.702
+1121,ood_test_pbf04_0027,ood_test,unattempted,,,false,false,,,,,,,
+1122,ood_test_pbf04_0021,ood_test,unattempted,,,false,false,,,,,,,
+1123,ood_test_pbf04_0035,ood_test,unattempted,,,false,false,,,,,,,
+1124,ood_test_pbf04_0018,ood_test,unattempted,,,false,false,,,,,,,
+1125,ood_test_pbf04_0030,ood_test,unattempted,,,false,false,,,,,,,
+1126,ood_test_pbf04_0010,ood_test,unattempted,,,false,false,,,,,,,
+1127,ood_test_pbf04_0022,ood_test,unattempted,,,false,false,,,,,,,
+1128,ood_test_pbf04_0013,ood_test,unattempted,,,false,false,,,,,,,
+1129,ood_test_pbf04_0012,ood_test,unattempted,,,false,false,,,,,,,
+1130,ood_test_pbf04_0028,ood_test,unattempted,,,false,false,,,,,,,
+1131,ood_test_pbf04_0006,ood_test,unattempted,,,false,false,,,,,,,
+1132,ood_test_pbf04_0047,ood_test,unattempted,,,false,false,,,,,,,
+1133,ood_test_pbf04_0000,ood_test,unattempted,,,false,false,,,,,,,
+1134,ood_test_pbf04_0045,ood_test,unattempted,,,false,false,,,,,,,
+1135,ood_test_pbf04_0005,ood_test,unattempted,,,false,false,,,,,,,
+1136,ood_test_pbf04_0041,ood_test,unattempted,,,false,false,,,,,,,
+1137,ood_test_pbf04_0003,ood_test,unattempted,,,false,false,,,,,,,
+1138,ood_test_pbf04_0019,ood_test,unattempted,,,false,false,,,,,,,
+1139,ood_test_pbf04_0004,ood_test,unattempted,,,false,false,,,,,,,
+1140,ood_test_pbf04_0042,ood_test,unattempted,,,false,false,,,,,,,
+1141,ood_test_pbf04_0046,ood_test,unattempted,,,false,false,,,,,,,
+1142,ood_test_pbf04_0050,ood_test,unattempted,,,false,false,,,,,,,
+1143,ood_test_pbf04_0001,ood_test,unattempted,,,false,false,,,,,,,
+1144,ood_test_pbf04_0024,ood_test,unattempted,,,false,false,,,,,,,
+1145,ood_test_pbf04_0051,ood_test,unattempted,,,false,false,,,,,,,
+1146,ood_test_pbf04_0016,ood_test,unattempted,,,false,false,,,,,,,
+1147,ood_test_pbf04_0017,ood_test,unattempted,,,false,false,,,,,,,
+1148,ood_test_pbf04_0040,ood_test,unattempted,,,false,false,,,,,,,
+1149,ood_test_pbf04_0034,ood_test,unattempted,,,false,false,,,,,,,
+1150,ood_test_pbf04_0049,ood_test,unattempted,,,false,false,,,,,,,
+1151,ood_test_pbf04_0031,ood_test,unattempted,,,false,false,,,,,,,
+1152,ood_test_pbf04_0020,ood_test,unattempted,,,false,false,,,,,,,
+1153,ood_test_pbf04_0023,ood_test,unattempted,,,false,false,,,,,,,
+1154,ood_test_pbf04_0048,ood_test,unattempted,,,false,false,,,,,,,
+1155,ood_test_pbf04_0038,ood_test,unattempted,,,false,false,,,,,,,
+1156,ood_test_pbf04_0036,ood_test,unattempted,,,false,false,,,,,,,
+1157,ood_test_pbf04_0011,ood_test,unattempted,,,false,false,,,,,,,

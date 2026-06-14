@@ -1,0 +1,135 @@
+{
+  "artifacts": {
+    "calibration_curve": "evidence_pack_tier2_steady/02_metrics/tier2_physical_smoke/calibration_curve.csv",
+    "headlines": "evidence_pack_tier2_steady/02_metrics/tier2_physical_smoke/headlines.json",
+    "model_checkpoint": "evidence_pack_tier2_steady/04_predictions/tier2_physical_smoke/model/compact_fno.pt",
+    "ood_summary": "evidence_pack_tier2_steady/02_metrics/tier2_physical_smoke/ood_summary.csv",
+    "prediction_index": "evidence_pack_tier2_steady/04_predictions/tier2_physical_smoke/prediction_index.csv",
+    "pseudo_ood_risk_training": "evidence_pack_tier2_steady/02_metrics/tier2_physical_smoke/pseudo_ood_risk_training.csv",
+    "risk_coverage_curve_id": "evidence_pack_tier2_steady/02_metrics/tier2_physical_smoke/risk_coverage_curve_id.csv",
+    "risk_coverage_curve_mixed": "evidence_pack_tier2_steady/02_metrics/tier2_physical_smoke/risk_coverage_curve_mixed.csv",
+    "risk_head_summary": "evidence_pack_tier2_steady/02_metrics/tier2_physical_smoke/risk_head_summary.json",
+    "training_history": "evidence_pack_tier2_steady/02_metrics/tier2_physical_smoke/training_history.csv"
+  },
+  "data": {
+    "case_counts": {
+      "by_pool": {
+        "hard_regime": 3,
+        "id_calibration": 1,
+        "id_test": 1,
+        "id_train": 2,
+        "ood_fresh": 6,
+        "ood_test": 6
+      },
+      "id_calibration": 1,
+      "id_test": 1,
+      "ood_test": 6,
+      "train_total": 2
+    },
+    "extra_parameter_files": [
+      "evidence_pack_tier2_steady/03_data/physical_envelope_parameters.csv"
+    ],
+    "extra_parameter_sha256": {
+      "evidence_pack_tier2_steady/03_data/physical_envelope_parameters.csv": "a0799d056ccc73758445eac4e499025b5c1adc3a4e51eaaf44d0d6025fc7ae30"
+    },
+    "extra_train_index_files": [],
+    "extra_train_index_sha256": {},
+    "fixed_grid_index": "evidence_pack_tier2_steady/04_predictions/physical_envelope_fixed_grid_index.csv",
+    "fixed_grid_index_sha256": "ecee6f0fccf2e855785602abac9a40d0f79afef42b9f08c5a6fbed1d2577fa82",
+    "target_mean": {
+      "T": 294.9974060058594,
+      "U_mag": 0.43464818596839905
+    },
+    "target_std": {
+      "T": 4.048328876495361,
+      "U_mag": 0.39304304122924805
+    }
+  },
+  "headlines": {
+    "gate_id_served_at_coverage90": 1.0,
+    "gate_ood_routed_at_threshold": 0.3333333333333333,
+    "gate_threshold_tau": 1.2352505922317505,
+    "id_coverage_90": 0.43097014925373134,
+    "id_sharpness_ratio_90": 0.6119127734760692,
+    "ood_band_width_inflation_ratio_90": 0.9921149643125051,
+    "ood_coverage_90": 0.34019375719529943,
+    "ood_spearman_bandwidth_error": 0.028571428571428574
+  },
+  "model": {
+    "batch_size": 2,
+    "description": "Small Fourier neural operator with local convolution skip paths; predicts full fixed-grid T and |U| fields from geometry/mask/SDF/parameter channels.",
+    "device": "mps",
+    "ensemble_parameter_count": 21588,
+    "ensemble_size": 2,
+    "ensemble_strategy": "full",
+    "epochs": 3,
+    "layers": 2,
+    "member_training_sets": [
+      {
+        "member": 0,
+        "policy": "all_id_train",
+        "train_case_count": 2
+      },
+      {
+        "member": 1,
+        "policy": "all_id_train",
+        "train_case_count": 2
+      }
+    ],
+    "modes": 6,
+    "mps_available": true,
+    "name": "CompactFNO",
+    "parameter_count_per_member": 10794,
+    "torch_version": "2.12.0",
+    "training_pools": [
+      "id_train"
+    ],
+    "width": 8
+  },
+  "timing": {
+    "total_wall_time_sec": 3.025,
+    "training_wall_time_sec": 2.119
+  },
+  "uq": {
+    "case_level_interpretation": "case_q90 bands calibrate a per-case residual quantile, so the reported case-level metric is the fraction of cases with at least the nominal fraction of fluid pixels covered. case_max bands use the maximum calibration residual per case and approximate simultaneous field coverage.",
+    "distance_gain": 0.0,
+    "ensemble_std_gain": 1.0,
+    "epistemic_signal": "per-pixel standard deviation across independently seeded FNO ensemble members",
+    "levels": [
+      0.5,
+      0.8,
+      0.9,
+      0.95
+    ],
+    "method": "split conformal over normalized fluid-pixel residuals with spatial calibration residual map, ensemble disagreement, and optional nearest-ID train distance inflation",
+    "naive_baseline": "constant-width split-conformal residual band in normalized target units",
+    "primary_level": 0.9,
+    "qhat": {
+      "0.5": 0.8764865398406982,
+      "0.8": 0.9513530135154724,
+      "0.9": 0.9536293148994446,
+      "0.95": 0.9543779492378235
+    },
+    "qhat_case_max": {
+      "0.5": 0.9960529208183289,
+      "0.8": 0.9960529208183289,
+      "0.9": 0.9960529208183289,
+      "0.95": 0.9960529208183289
+    },
+    "qhat_case_q90": {
+      "0.5": 0.8763721585273743,
+      "0.8": 0.9513519406318665,
+      "0.9": 0.953627347946167,
+      "0.95": 0.9543774127960205
+    },
+    "qhat_naive": {
+      "0.5": 0.45244497060775757,
+      "0.8": 0.8076348304748535,
+      "0.9": 1.0093353986740112,
+      "0.95": 1.837553858757019
+    },
+    "risk_head": {
+      "name": "none"
+    }
+  }
+}

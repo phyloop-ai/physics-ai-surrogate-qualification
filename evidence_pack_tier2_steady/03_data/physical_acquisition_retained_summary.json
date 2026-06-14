@@ -1,0 +1,67 @@
+{
+  "combined_case_count": 1157,
+  "configured_canonical_targets": {
+    "id_calibration": 100,
+    "id_test": 100,
+    "id_train": 400,
+    "ood_test": 150
+  },
+  "convergence_log": "evidence_pack_tier2_steady/03_data/convergence_log.csv",
+  "convergence_log_sha256": "0931f8723d2ef0c61d373453b705a9a080400fa1e62a46abb640609655844cb2",
+  "drop_reasons": {
+    "flow solver did not report convergence; flow residuals did not meet convergence contract": 83,
+    "flow solver did not report convergence; flow residuals did not meet convergence contract; raw outlet enthalpy check failed": 1,
+    "flow solver did not report convergence; flow residuals did not meet convergence contract; raw temperature extrema check failed": 13,
+    "raw temperature extrema check failed": 130
+  },
+  "failures": [],
+  "fresh_retained_actual": 52,
+  "fresh_retained_target_reported": 90,
+  "input_parameter_file": "evidence_pack_tier2_steady/03_data/physical_acquisition_with_backfill_parameters.csv",
+  "input_parameter_sha256": "8ad333ab52e604ee6f1017a99d08a2863cda7f71f0b23044d3bda7debe2b518e",
+  "min_retained_cases": 840,
+  "passed": true,
+  "policy": "Retain every row present in the combined physical acquisition/backfill parameter file only when convergence_log marks it converged, it is not dropped, and the solver output archive is present. Do not cap ID-train rows; report fresh-OOD retained count honestly.",
+  "retained_by_pool": {
+    "id_calibration": 100,
+    "id_test": 100,
+    "id_train": 446,
+    "ood_fresh": 52,
+    "ood_test": 150
+  },
+  "retained_case_count": 848,
+  "retained_manifest_file": "evidence_pack_tier2_steady/03_data/physical_acquisition_retained_manifest.csv",
+  "retained_parameter_file": "evidence_pack_tier2_steady/03_data/physical_acquisition_retained_parameters.csv",
+  "solver_output_manifest": "evidence_pack_tier2_steady/03_data/solver_output_manifest.csv",
+  "solver_output_manifest_sha256": "5d4556fe6edf9b3bccd573366478f652bcd8979dae39b18eb471c01acdc60656",
+  "status_by_pool": {
+    "id_calibration": {
+      "dropped": 5,
+      "retained": 100
+    },
+    "id_test": {
+      "dropped": 8,
+      "retained": 100
+    },
+    "id_train": {
+      "dropped": 46,
+      "retained": 446,
+      "unattempted": 37
+    },
+    "ood_fresh": {
+      "dropped": 38,
+      "retained": 52
+    },
+    "ood_test": {
+      "dropped": 130,
+      "retained": 150,
+      "unattempted": 45
+    }
+  },
+  "status_counts": {
+    "dropped": 227,
+    "retained": 848,
+    "unattempted": 82
+  },
+  "status_file": "evidence_pack_tier2_steady/03_data/physical_acquisition_final_status.csv"
+}

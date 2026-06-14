@@ -1,0 +1,32 @@
+{
+  "allow_drops": true,
+  "attempted": 10,
+  "current_converged_by_pool": {
+    "hard_regime": 3,
+    "id_calibration": 1,
+    "id_test": 1,
+    "id_train": 2,
+    "ood_fresh": 7,
+    "ood_test": 8
+  },
+  "elapsed_sec": 1316.571,
+  "failures": [
+    {
+      "case_id": "ood_fresh_0059",
+      "output_tail": "VM run complete for ood_fresh_0059: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0002",
+      "output_tail": "VM run complete for ood_fresh_0002: converged=false\n",
+      "returncode": 2
+    }
+  ],
+  "last_case_id": "ood_fresh_0044",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/temperature_replacement_parameters.csv",
+  "selected_cases": 10,
+  "skipped": 0,
+  "target_retained_count": null,
+  "target_retained_pool": null,
+  "targets": null
+}

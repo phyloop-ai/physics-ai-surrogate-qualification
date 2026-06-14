@@ -1,0 +1,22 @@
+{
+  "feature_names": [
+    "ensemble_width_mean",
+    "ensemble_width_p95",
+    "nearest_id_train_distance",
+    "n_fin",
+    "n_fin_below_id",
+    "n_fin_above_id",
+    "d_in_below_id",
+    "d_in_above_id",
+    "h_ch_above_id",
+    "blockage_ratio",
+    "heat_load_per_flow_proxy",
+    "fin_crowding_proxy",
+    "u_in",
+    "q_w",
+    "d_in",
+    "h_ch",
+    "h_fin"
+  ],
+  "name": "none"
+}

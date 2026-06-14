@@ -1,0 +1,30 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+.venv/
+venv/
+
+# Generated solver cases and heavy outputs.
+/openfoam_cases/*
+!/openfoam_cases/.gitkeep
+/evidence_pack/03_data/solver_outputs/
+/evidence_pack/03_data/solver_logs/
+/evidence_pack_tier2_steady/03_data/solver_outputs/
+/evidence_pack_tier2_steady/03_data/solver_logs/
+/evidence_pack_tier2_steady/03_data/solver_output_manifest.csv
+/evidence_pack/04_predictions/**/*.npz
+/evidence_pack_tier2_steady/04_predictions/**/*.npz
+/evidence_pack/04_predictions/**/model/
+*.pt
+*.pth
+
+# Local reports and compressed exports.
+*.pdf
+*.zip
+*.tar.gz
+
+# Keep scientific PNG plots trackable when they are final evidence.

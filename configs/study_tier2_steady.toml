@@ -1,0 +1,151 @@
+[study]
+id = "PL-WP-002-STEADY"
+title = "Steady Thermal Scalar Contract For Solver-Backed Surrogate Qualification"
+seed = 20260603
+status = "tier2_steady_thermal_contract"
+
+[hardware]
+target = "MacBook Pro M4 Pro, 24 GB unified memory"
+training_backend = "PyTorch MPS"
+
+[paths]
+evidence_pack = "evidence_pack_tier2_steady"
+
+[grid]
+resolution = 128
+max_resolution = 192
+input_channels = ["solid_fluid_mask", "sdf", "x", "y", "h_ch", "n_fin", "h_fin", "d_in", "u_in", "q_w"]
+output_fields = ["T", "U_mag"]
+metrics_region = "fluid_only"
+
+[physics]
+scalar_semantics = "temperature_K_steady_transport_stability_window"
+scalar_solution_regime = "steady_by_terminal_field_stability_passive_scalar_over_frozen_steady_velocity"
+inlet_temperature_K = 293.15
+working_fluid = "viscous_coolant_laminar_benchmark"
+kinematic_viscosity_m2_s = 1.5e-5
+thermal_diffusivity_m2_s = 1.43e-7
+thermal_conductivity_W_mK = 0.6
+volumetric_heat_capacity_J_m3K = 4.195804195804196e6
+positive_wall_heat_flux = "heats_fluid"
+fixed_gradient_sign = "positive_q_over_k"
+temperature_hard_min_K = 273.15
+temperature_hard_max_K = 500.0
+max_negative_delta_from_inlet_K = 2.0
+max_positive_delta_from_inlet_K = 200.0
+max_velocity_mag_m_per_s = 10.0
+energy_balance_check_enabled = true
+energy_balance_min_ratio = -0.05
+energy_balance_max_ratio = 10.0
+energy_balance_abs_margin_K = 2.0
+
+[verification.physical_plausibility]
+enabled = true
+required_for_strict = true
+summary_json = "evidence_pack_tier2_steady/02_metrics/physical_plausibility_summary.json"
+summary_csv = "evidence_pack_tier2_steady/02_metrics/physical_plausibility_by_case.csv"
+
+[geometry]
+channel_length_mm = 60.0
+case_thickness_mm = 1.0
+fin_region_start_mm = 15.0
+fin_region_end_mm = 45.0
+max_fin_height_fraction_of_channel = 0.75
+fin_width_fraction_of_pitch = 0.35
+max_fin_width_mm = 0.8
+background_dx_mm = 0.25
+
+[dataset]
+id_train = 400
+id_calibration = 100
+id_test = 100
+ood_test = 150
+
+[parameters.h_ch]
+kind = "continuous"
+unit = "mm"
+id_min = 4.0
+id_max = 10.0
+
+[parameters.n_fin]
+kind = "discrete"
+id_values = [4, 5, 6, 7, 8]
+
+[parameters.h_fin]
+kind = "continuous"
+unit = "mm"
+id_min = 2.0
+id_max = 6.0
+
+[parameters.d_in]
+kind = "continuous"
+unit = "mm"
+id_min = 2.0
+id_max = 6.0
+
+[parameters.u_in]
+kind = "continuous"
+unit = "m/s"
+id_min = 0.2
+id_max = 1.5
+
+[parameters.q_w]
+kind = "continuous"
+unit = "kW/m^2"
+id_min = 5.0
+id_max = 50.0
+
+[ood]
+n_fin_values = [3, 10, 12]
+push_parameters = ["h_ch", "d_in"]
+push_fraction_min = 0.25
+push_fraction_max = 0.40
+include_geometry_family_shift = false
+
+[uq]
+nominal_coverage_levels = [0.50, 0.80, 0.90, 0.95]
+primary_level = 0.90
+
+[acceptance_gates]
+id_coverage90_min = 0.87
+id_coverage90_max = 0.93
+sharpness_ratio_max = 1.5
+ood_spearman_target = 0.5
+
+[solver]
+engine = "OpenFOAM"
+distribution = "OpenFOAM Foundation"
+execution_backend = "multipass"
+multipass_instance = "openfoam-solver"
+multipass_instance_env = "OPENFOAM_MULTIPASS_INSTANCE"
+openfoam_bashrc = "/opt/openfoam13/etc/bashrc"
+vm_workdir = "/home/ubuntu/pl-wp-002"
+expected_version = "13"
+physics_simplification = "fluid_side_forced_convection_fixed_wall_heat_flux_steady_scalar"
+convergence_residual_target = 1e-6
+flow_end_time = 15000
+flow_div_phi_u_scheme = "Gauss upwind"
+flow_pressure_relaxation = 0.2
+flow_velocity_relaxation = 0.3
+thermal_solver_mode = "dedicated_energy_foam"
+thermal_energy_iterations = 500
+thermal_energy_write_interval = 10
+thermal_equation_relaxation = 1.0
+thermal_residual_target = 1e-6
+scalar_transport_ddt_scheme = "steadyState"
+scalar_div_phi_t_scheme = "Gauss upwind"
+scalar_equation_relaxation = 1.0
+scalar_transport_n_correctors = 50
+scalar_transport_delta_t = 0.1
+scalar_transport_duration_s = 1.0
+scalar_transport_write_interval_s = 0.1
+scalar_steady_check_enabled = true
+scalar_steady_min_writes = 2
+scalar_steady_mean_delta_T_K = 0.05
+scalar_steady_max_delta_T_K = 0.5
+raw_enthalpy_check_enabled = true
+raw_enthalpy_min_ratio = -0.05
+raw_enthalpy_max_ratio = 10.0
+raw_enthalpy_abs_margin_K = 0.05
+raw_mass_balance_max_rel_error = 0.02
+raw_temperature_extrema_check_enabled = true

@@ -1,0 +1,11 @@
+case_id,pool,validation_pool,selection_group,drop_reason,raw_temperature_extrema_passed,raw_temperature_max_T_K,raw_temperature_reason
+ood_test_0106,ood_test,near_ood,ood_nfin_10_high_distance,raw temperature extrema check failed,false,978.55215,raw T_max_K 978.552 above allowed 493.15
+ood_test_0107,ood_test,near_ood,ood_nfin_12_low_distance,raw temperature extrema check failed,false,670.38838,raw T_max_K 670.388 above allowed 493.15
+ood_fresh_0017,ood_fresh,fresh_ood,fresh_d_in_high_high_distance,raw temperature extrema check failed,false,1038.6986,raw T_max_K 1038.7 above allowed 493.15
+ood_fresh_0089,ood_fresh,fresh_ood,fresh_d_in_low_high_distance,raw temperature extrema check failed,false,1033.5308,raw T_max_K 1033.53 above allowed 493.15
+ood_fresh_0008,ood_fresh,fresh_ood,fresh_h_ch_high_high_distance,raw temperature extrema check failed,false,1137.5918,raw T_max_K 1137.59 above allowed 493.15
+ood_test_0004,ood_test,near_ood,ood_nfin_10_high_distance_temperature_replacement_2,,true,354.11621,
+ood_test_0074,ood_test,near_ood,ood_nfin_12_low_distance_temperature_replacement_2,,true,340.95279,
+ood_fresh_0053,ood_fresh,fresh_ood,fresh_d_in_high_high_distance_temperature_replacement_2,,true,342.31867,
+ood_fresh_0059,ood_fresh,fresh_ood,fresh_d_in_low_high_distance_temperature_replacement_1,raw temperature extrema check failed,false,511.9123,raw T_max_K 511.912 above allowed 493.15
+ood_fresh_0002,ood_fresh,fresh_ood,fresh_h_ch_high_high_distance_temperature_replacement_1,flow solver did not report convergence; flow residuals did not meet convergence contract,true,363.04257,

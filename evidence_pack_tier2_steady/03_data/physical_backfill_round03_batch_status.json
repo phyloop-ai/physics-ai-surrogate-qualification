@@ -1,0 +1,90 @@
+{
+  "allow_drops": true,
+  "attempted": 19,
+  "current_converged_by_pool": {
+    "id_calibration": 5,
+    "id_test": 8,
+    "ood_test": 41
+  },
+  "elapsed_sec": 3738.396,
+  "failures": [
+    {
+      "case_id": "ood_test_pbf03_0080",
+      "output_tail": "VM run complete for ood_test_pbf03_0080: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0098",
+      "output_tail": "VM run complete for ood_test_pbf03_0098: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0062",
+      "output_tail": "VM run complete for ood_test_pbf03_0062: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0063",
+      "output_tail": "VM run complete for ood_test_pbf03_0063: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0041",
+      "output_tail": "VM run complete for ood_test_pbf03_0041: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0046",
+      "output_tail": "VM run complete for ood_test_pbf03_0046: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0047",
+      "output_tail": "VM run complete for ood_test_pbf03_0047: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0096",
+      "output_tail": "VM run complete for ood_test_pbf03_0096: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0097",
+      "output_tail": "VM run complete for ood_test_pbf03_0097: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0076",
+      "output_tail": "VM run complete for ood_test_pbf03_0076: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0077",
+      "output_tail": "VM run complete for ood_test_pbf03_0077: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0073",
+      "output_tail": "VM run complete for ood_test_pbf03_0073: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0022",
+      "output_tail": "VM run complete for ood_test_pbf03_0022: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf03_0023",
+      "output_tail": "VM run complete for ood_test_pbf03_0023: converged=false\n",
+      "returncode": 2
+    }
+  ],
+  "last_case_id": "ood_test_pbf03_0023",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/physical_backfill_round03_parameters.csv",
+  "retained_count_scope": "selected parameter file; archive required when --archive-output is active",
+  "selected_cases": 119,
+  "skipped": 100,
+  "target_retained_count": null,
+  "target_retained_pool": null,
+  "targets": null
+}

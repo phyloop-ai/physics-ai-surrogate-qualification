@@ -1,0 +1,67 @@
+{
+  "allow_drops": true,
+  "attempted": 21,
+  "current_converged_by_pool": {
+    "hard_regime": 3,
+    "id_calibration": 1,
+    "id_test": 1,
+    "id_train": 1,
+    "ood_fresh": 3,
+    "ood_test": 3
+  },
+  "elapsed_sec": 1456.806,
+  "failures": [
+    {
+      "case_id": "id_train_0200",
+      "output_tail": "VM run complete for id_train_0200: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0106",
+      "output_tail": "VM run complete for ood_test_0106: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0071",
+      "output_tail": "VM run complete for ood_test_0071: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0060",
+      "output_tail": "VM run complete for ood_test_0060: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0017",
+      "output_tail": "VM run complete for ood_fresh_0017: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0078",
+      "output_tail": "VM run complete for ood_fresh_0078: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0008",
+      "output_tail": "VM run complete for ood_fresh_0008: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "hard_dinhighidfin_0005",
+      "output_tail": "VM run complete for hard_dinhighidfin_0005: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "hard_nfin3dinhigh_0003",
+      "output_tail": "VM run complete for hard_nfin3dinhigh_0003: converged=false\n",
+      "returncode": 2
+    }
+  ],
+  "last_case_id": "hard_nfin3idaxes_0004",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/solver_validation_parameters.csv",
+  "selected_cases": 21,
+  "skipped": 0,
+  "target_retained_count": null,
+  "target_retained_pool": null,
+  "targets": null
+}

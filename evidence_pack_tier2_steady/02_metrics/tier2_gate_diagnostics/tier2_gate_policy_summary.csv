@@ -1,0 +1,10 @@
+policy,score_name,threshold,selected_pools,total_cases,id_cases,ood_cases,served_cases,routed_cases,id_served_fraction,ood_routed_fraction,served_coverage_90
+explicit_envelope,,,"id_test,ood_fresh,ood_test",302,100,202,100,202,1.0,1.0,0.9078142167258605
+learned_score,band_width_mean_norm_90,0.5604707896709443,"id_test,ood_fresh,ood_test",302,100,202,117,185,0.9,0.8663366336633663,0.9028714328796665
+explicit_then_learned_score,band_width_mean_norm_90,0.5604707896709443,"id_test,ood_fresh,ood_test",302,100,202,90,212,0.9,1.0,0.9095477796355599
+learned_score,risk_score,-0.7161316633224487,"id_test,ood_fresh,ood_test",302,100,202,129,173,0.93,0.8217821782178217,0.8916070112123267
+explicit_then_learned_score,risk_score,-0.7161316633224487,"id_test,ood_fresh,ood_test",302,100,202,93,209,0.93,1.0,0.9046273526583322
+learned_score,risk_multiplier,1.4584164381027223,"id_test,ood_fresh,ood_test",302,100,202,129,173,0.93,0.8217821782178217,0.8916070112123267
+explicit_then_learned_score,risk_multiplier,1.4584164381027223,"id_test,ood_fresh,ood_test",302,100,202,93,209,0.93,1.0,0.9046273526583322
+learned_score,nearest_id_train_distance,0.3542166739702225,"id_test,ood_fresh,ood_test",302,100,202,85,217,0.85,1.0,0.9103997004727479
+explicit_then_learned_score,nearest_id_train_distance,0.3542166739702225,"id_test,ood_fresh,ood_test",302,100,202,85,217,0.85,1.0,0.9103997004727479

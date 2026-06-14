@@ -1,0 +1,9 @@
+case_id,pool,nearest_id_train_distance,replacement_for,target_distance_bin,target_ood_axis
+ood_test_pbf01_0003,ood_test,0.92134948,ood_test_0106,4,h_ch_high
+ood_test_pbf01_0001,ood_test,0.86825099,ood_test_0106,4,h_ch_high
+ood_test_pbf01_0000,ood_test,0.85937624,ood_test_0106,4,h_ch_high
+ood_test_pbf01_0002,ood_test,0.85986164,ood_test_0106,4,h_ch_high
+ood_test_pbf01_0004,ood_test,1.11795879,ood_test_0107,4,d_in_low
+ood_test_pbf01_0007,ood_test,1.12614551,ood_test_0107,4,d_in_low
+ood_test_pbf01_0006,ood_test,1.09583235,ood_test_0107,4,d_in_low
+ood_test_pbf01_0005,ood_test,1.08967844,ood_test_0107,4,d_in_low

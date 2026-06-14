@@ -1,0 +1,24 @@
+{
+  "balance_ratio": 0.988716624808195,
+  "expected_delta_K": 0.2768368695771129,
+  "flow_time": "475",
+  "heated_area_m2": 8.51017751271176e-05,
+  "inlet_backflow_m3_s": 0.0,
+  "inlet_flow_m3_s": 3.23628856e-06,
+  "inlet_temperature_K": 293.15,
+  "mass_balance_max_rel_error": 0.02,
+  "mass_balance_relative_error": 1.3343062346996716e-07,
+  "net_inlet_flow_m3_s": 3.23628856e-06,
+  "net_outlet_flow_m3_s": 3.23628899182e-06,
+  "outlet_backflow_m3_s": 3.590312618e-08,
+  "outlet_bulk_K": 293.4237132153107,
+  "outlet_bulk_delta_K": 0.27371321531074955,
+  "outlet_flow_m3_s": 3.272192118e-06,
+  "passed": true,
+  "ratio_bounds": [
+    -0.05,
+    10
+  ],
+  "reason": "",
+  "temperature_time": "480"
+}

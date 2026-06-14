@@ -1,0 +1,22 @@
+{
+  "case_count": 30,
+  "case_count_by_regime": {
+    "d_in_high_id_fin": 6,
+    "h_ch_high_id_fin": 6,
+    "nfin3_d_in_high": 6,
+    "nfin3_h_ch_high": 6,
+    "nfin3_id_axes": 6
+  },
+  "distance_file": "evidence_pack_tier2_steady/03_data/hard_regime_distance.csv",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/hard_regime_parameters.csv",
+  "per_regime": 6,
+  "policy": "Generate targeted OpenFOAM candidates for hard regimes before any retraining. Keep separate from canonical evidence.",
+  "seed": 20272603,
+  "target_regimes": [
+    "nfin3_id_axes",
+    "d_in_high_id_fin",
+    "h_ch_high_id_fin",
+    "nfin3_d_in_high",
+    "nfin3_h_ch_high"
+  ]
+}

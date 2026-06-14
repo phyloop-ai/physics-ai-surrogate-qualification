@@ -1,0 +1,15 @@
+{
+  "after_time": 475.0,
+  "candidate_write_count": 5,
+  "cell_count": 10040,
+  "current_time": 480.0,
+  "max_delta_T_K": 0.0007899999999949614,
+  "max_delta_T_K_limit": 0.5,
+  "mean_delta_T_K": 3.2509960159366047e-05,
+  "mean_delta_T_K_limit": 0.05,
+  "min_writes": 2,
+  "passed": true,
+  "previous_time": 479.0,
+  "reason": "",
+  "window_s": 1.0
+}

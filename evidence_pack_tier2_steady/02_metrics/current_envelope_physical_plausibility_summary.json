@@ -1,0 +1,86 @@
+{
+  "by_case_csv": "evidence_pack_tier2_steady/02_metrics/current_envelope_physical_plausibility_by_case.csv",
+  "by_pool": {
+    "hard_regime": {
+      "cases": 3,
+      "failed": 0,
+      "passed": 3
+    },
+    "id_calibration": {
+      "cases": 1,
+      "failed": 0,
+      "passed": 1
+    },
+    "id_test": {
+      "cases": 1,
+      "failed": 0,
+      "passed": 1
+    },
+    "id_train": {
+      "cases": 2,
+      "failed": 0,
+      "passed": 2
+    },
+    "ood_fresh": {
+      "cases": 6,
+      "failed": 3,
+      "passed": 3
+    },
+    "ood_test": {
+      "cases": 6,
+      "failed": 2,
+      "passed": 4
+    }
+  },
+  "case_count": 19,
+  "energy_balance": {
+    "checked_case_count": 19,
+    "enabled": true,
+    "failed_case_count": 0,
+    "rule": "Broad outlet-strip bulk enthalpy sanity check using q_w, estimated heated area, inlet flow area, volumetric heat capacity, and velocity-magnitude-weighted outlet temperature."
+  },
+  "enthalpy_balance": {
+    "checked_case_count": 19,
+    "enabled": true,
+    "failed_case_count": 0,
+    "rule": "Broad outlet-strip bulk enthalpy sanity check using q_w, estimated heated area, inlet flow area, volumetric heat capacity, and velocity-magnitude-weighted outlet temperature."
+  },
+  "failed_case_count": 5,
+  "failures": [
+    {
+      "case_id": "ood_test_0106",
+      "failure_reasons": "T_max_K 978.552 above allowed 493.15",
+      "pool": "ood_test"
+    },
+    {
+      "case_id": "ood_test_0107",
+      "failure_reasons": "T_max_K 661.699 above allowed 493.15",
+      "pool": "ood_test"
+    },
+    {
+      "case_id": "ood_fresh_0008",
+      "failure_reasons": "T_max_K 1123.99 above allowed 493.15",
+      "pool": "ood_fresh"
+    },
+    {
+      "case_id": "ood_fresh_0017",
+      "failure_reasons": "T_max_K 1020.62 above allowed 493.15",
+      "pool": "ood_fresh"
+    },
+    {
+      "case_id": "ood_fresh_0089",
+      "failure_reasons": "T_max_K 1017.74 above allowed 493.15",
+      "pool": "ood_fresh"
+    }
+  ],
+  "index_file": "evidence_pack_tier2_steady/04_predictions/current_envelope_fixed_grid_index.csv",
+  "inlet_temperature_K": 293.15,
+  "passed": false,
+  "rule": "Strict verification fails unless every retained fixed-grid case passes these physics checks.",
+  "scalar_semantics": "temperature_K_steady_transport_stability_window",
+  "temperature_allowed_K": [
+    291.15,
+    493.15
+  ],
+  "velocity_mag_max_m_per_s": 10.0
+}

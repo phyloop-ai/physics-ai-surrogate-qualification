@@ -1,0 +1,10 @@
+{
+  "gate_id_served_at_coverage90": 1.0,
+  "gate_ood_routed_at_threshold": 0.0,
+  "gate_threshold_tau": 18.53563117980957,
+  "id_coverage_90": 0.9078142167258605,
+  "id_sharpness_ratio_90": 0.746734712976447,
+  "ood_band_width_inflation_ratio_90": 3.6639623639663053,
+  "ood_coverage_90": 0.9481940857719501,
+  "ood_spearman_bandwidth_error": 0.1226561180496911
+}

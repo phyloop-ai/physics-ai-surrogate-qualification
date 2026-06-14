@@ -1,0 +1,14 @@
+{
+  "candidate_count": 10,
+  "candidates_per_failure": 2,
+  "failed_temperature_cases": [
+    "ood_test_0106",
+    "ood_test_0107",
+    "ood_fresh_0017",
+    "ood_fresh_0089",
+    "ood_fresh_0008"
+  ],
+  "parameter_csv": "evidence_pack_tier2_steady/03_data/temperature_replacement_parameters.csv",
+  "risk_proxy": "q_w * (n_fin / 8) / (u_in * min(d_in, h_ch)) using mm for inlet width",
+  "selection_csv": "evidence_pack_tier2_steady/03_data/temperature_replacement_selection.csv"
+}

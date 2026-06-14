@@ -1,0 +1,91 @@
+{
+  "allow_drops": true,
+  "attempted": 24,
+  "current_converged_by_pool": {
+    "id_calibration": 95,
+    "id_test": 92,
+    "id_train": 364,
+    "ood_test": 97
+  },
+  "elapsed_sec": 2995.846,
+  "failures": [
+    {
+      "case_id": "ood_test_0110",
+      "output_tail": "VM run complete for ood_test_0110: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0082",
+      "output_tail": "VM run complete for ood_test_0082: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0095",
+      "output_tail": "VM run complete for ood_test_0095: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0002",
+      "output_tail": "VM run complete for ood_test_0002: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0014",
+      "output_tail": "VM run complete for ood_test_0014: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0080",
+      "output_tail": "VM run complete for ood_test_0080: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0096",
+      "output_tail": "VM run complete for ood_test_0096: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0077",
+      "output_tail": "VM run complete for ood_test_0077: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0134",
+      "output_tail": "VM run complete for ood_test_0134: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0116",
+      "output_tail": "VM run complete for ood_test_0116: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0098",
+      "output_tail": "VM run complete for ood_test_0098: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0104",
+      "output_tail": "VM run complete for ood_test_0104: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_0026",
+      "output_tail": "VM run complete for ood_test_0026: converged=false\n",
+      "returncode": 2
+    }
+  ],
+  "last_case_id": "ood_test_0026",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/physical_acquisition_parameters.csv",
+  "retained_count_scope": "selected parameter file; archive required when --archive-output is active",
+  "selected_cases": 750,
+  "skipped": 726,
+  "target_retained_count": null,
+  "target_retained_pool": null,
+  "targets": {
+    "id_calibration": 100,
+    "id_test": 100,
+    "id_train": 400,
+    "ood_test": 150
+  }
+}

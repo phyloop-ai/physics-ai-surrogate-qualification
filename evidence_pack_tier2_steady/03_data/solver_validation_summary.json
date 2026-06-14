@@ -1,0 +1,123 @@
+{
+  "all_passed": false,
+  "case_count_by_validation_pool": {
+    "fresh_ood": {
+      "failed": 3,
+      "passed": 3,
+      "total": 6
+    },
+    "hard_regime": {
+      "failed": 2,
+      "passed": 3,
+      "total": 5
+    },
+    "id": {
+      "failed": 0,
+      "passed": 4,
+      "total": 4
+    },
+    "near_ood": {
+      "failed": 2,
+      "passed": 4,
+      "total": 6
+    }
+  },
+  "convergence_log": "evidence_pack_tier2_steady/03_data/convergence_log.csv",
+  "current_steady_solver_envelope": {
+    "all_passed": false,
+    "excluded_cases": 2,
+    "exclusions": [
+      {
+        "case_id": "hard_dinhighidfin_0005",
+        "converged": "false",
+        "drop_reason": "flow solver did not report convergence; flow residuals did not meet convergence contract",
+        "reason": "hard high-d_in regime requires a separate validated steady/transient solver path",
+        "target_regime": "d_in_high_id_fin",
+        "validation_pool": "hard_regime"
+      },
+      {
+        "case_id": "hard_nfin3dinhigh_0003",
+        "converged": "false",
+        "drop_reason": "flow solver did not report convergence; flow residuals did not meet convergence contract",
+        "reason": "hard high-d_in regime requires a separate validated steady/transient solver path",
+        "target_regime": "nfin3_d_in_high",
+        "validation_pool": "hard_regime"
+      }
+    ],
+    "failed_cases": 5,
+    "failures": [
+      {
+        "case_id": "ood_test_0106",
+        "drop_reason": "raw temperature extrema check failed",
+        "validation_pool": "near_ood"
+      },
+      {
+        "case_id": "ood_test_0107",
+        "drop_reason": "raw temperature extrema check failed",
+        "validation_pool": "near_ood"
+      },
+      {
+        "case_id": "ood_fresh_0017",
+        "drop_reason": "raw temperature extrema check failed",
+        "validation_pool": "fresh_ood"
+      },
+      {
+        "case_id": "ood_fresh_0089",
+        "drop_reason": "raw temperature extrema check failed",
+        "validation_pool": "fresh_ood"
+      },
+      {
+        "case_id": "ood_fresh_0008",
+        "drop_reason": "raw temperature extrema check failed",
+        "validation_pool": "fresh_ood"
+      }
+    ],
+    "passed_cases": 14,
+    "selected_cases": 19
+  },
+  "failed_cases": 7,
+  "failures": [
+    {
+      "case_id": "ood_test_0106",
+      "drop_reason": "raw temperature extrema check failed",
+      "validation_pool": "near_ood"
+    },
+    {
+      "case_id": "ood_test_0107",
+      "drop_reason": "raw temperature extrema check failed",
+      "validation_pool": "near_ood"
+    },
+    {
+      "case_id": "ood_fresh_0017",
+      "drop_reason": "raw temperature extrema check failed",
+      "validation_pool": "fresh_ood"
+    },
+    {
+      "case_id": "ood_fresh_0089",
+      "drop_reason": "raw temperature extrema check failed",
+      "validation_pool": "fresh_ood"
+    },
+    {
+      "case_id": "ood_fresh_0008",
+      "drop_reason": "raw temperature extrema check failed",
+      "validation_pool": "fresh_ood"
+    },
+    {
+      "case_id": "hard_dinhighidfin_0005",
+      "drop_reason": "flow solver did not report convergence; flow residuals did not meet convergence contract",
+      "validation_pool": "hard_regime"
+    },
+    {
+      "case_id": "hard_nfin3dinhigh_0003",
+      "drop_reason": "flow solver did not report convergence; flow residuals did not meet convergence contract",
+      "validation_pool": "hard_regime"
+    }
+  ],
+  "passed_cases": 14,
+  "raw_enthalpy_balance_ratio_max": 2.166611558695228,
+  "raw_enthalpy_balance_ratio_min": 0.9191661789019668,
+  "scalar_max_delta_T_K_max": 0.0896600000000376,
+  "selected_cases": 21,
+  "selection_file": "evidence_pack_tier2_steady/03_data/solver_validation_selection.csv",
+  "summary_csv": "evidence_pack_tier2_steady/03_data/solver_validation_summary.csv"
+}

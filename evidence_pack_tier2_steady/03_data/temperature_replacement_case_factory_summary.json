@@ -1,0 +1,8 @@
+{
+  "case_factory_version": "2026-06-12-case-factory-cleanroom-v14",
+  "dry_run": false,
+  "manifest": "evidence_pack_tier2_steady/03_data/temperature_replacement_case_factory_manifest.csv",
+  "output_dir": "openfoam_cases",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/temperature_replacement_parameters.csv",
+  "selected_cases": 10
+}

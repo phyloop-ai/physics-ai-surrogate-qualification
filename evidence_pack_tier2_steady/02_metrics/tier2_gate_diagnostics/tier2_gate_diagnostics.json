@@ -1,0 +1,250 @@
+{
+  "auroc": [
+    {
+      "auroc_higher_score_is_more_ood": 0.9652666666666667,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 150,
+      "ood_pools": "ood_test",
+      "score_name": "band_width_mean_norm_90"
+    },
+    {
+      "auroc_higher_score_is_more_ood": 0.9161538461538462,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 52,
+      "ood_pools": "ood_fresh",
+      "score_name": "band_width_mean_norm_90"
+    },
+    {
+      "auroc_higher_score_is_more_ood": 0.9526237623762376,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 202,
+      "ood_pools": "ood_test,ood_fresh",
+      "score_name": "band_width_mean_norm_90"
+    },
+    {
+      "auroc_higher_score_is_more_ood": 0.9338666666666666,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 150,
+      "ood_pools": "ood_test",
+      "score_name": "risk_score"
+    },
+    {
+      "auroc_higher_score_is_more_ood": 0.8653846153846154,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 52,
+      "ood_pools": "ood_fresh",
+      "score_name": "risk_score"
+    },
+    {
+      "auroc_higher_score_is_more_ood": 0.9162376237623763,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 202,
+      "ood_pools": "ood_test,ood_fresh",
+      "score_name": "risk_score"
+    },
+    {
+      "auroc_higher_score_is_more_ood": 0.9335333333333333,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 150,
+      "ood_pools": "ood_test",
+      "score_name": "risk_multiplier"
+    },
+    {
+      "auroc_higher_score_is_more_ood": 0.8785576923076923,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 52,
+      "ood_pools": "ood_fresh",
+      "score_name": "risk_multiplier"
+    },
+    {
+      "auroc_higher_score_is_more_ood": 0.9193811881188119,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 202,
+      "ood_pools": "ood_test,ood_fresh",
+      "score_name": "risk_multiplier"
+    },
+    {
+      "auroc_higher_score_is_more_ood": 0.9998666666666667,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 150,
+      "ood_pools": "ood_test",
+      "score_name": "nearest_id_train_distance"
+    },
+    {
+      "auroc_higher_score_is_more_ood": 0.999423076923077,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 52,
+      "ood_pools": "ood_fresh",
+      "score_name": "nearest_id_train_distance"
+    },
+    {
+      "auroc_higher_score_is_more_ood": 0.9997524752475248,
+      "id_cases": 100,
+      "id_pool": "id_test",
+      "ood_cases": 202,
+      "ood_pools": "ood_test,ood_fresh",
+      "score_name": "nearest_id_train_distance"
+    }
+  ],
+  "case_counts_by_pool": {
+    "id_calibration": 100,
+    "id_test": 100,
+    "ood_fresh": 52,
+    "ood_test": 150
+  },
+  "explicit_out_of_envelope_counts_by_pool": {
+    "id_calibration": 0,
+    "id_test": 0,
+    "ood_fresh": 52,
+    "ood_test": 150
+  },
+  "id_accept_fraction_for_learned_thresholds": 0.9,
+  "interpretation": "Explicit envelope gating is the honest baseline for this dataset because OOD pools are constructed by known parameter-envelope shifts. Learned score routing remains experimental and should not be presented as a solved hidden-OOD detector.",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/physical_acquisition_retained_parameters.csv",
+  "policies": [
+    {
+      "id_cases": 100,
+      "id_served_fraction": 1.0,
+      "ood_cases": 202,
+      "ood_routed_fraction": 1.0,
+      "policy": "explicit_envelope",
+      "routed_cases": 202,
+      "score_name": "",
+      "selected_pools": "id_test,ood_fresh,ood_test",
+      "served_cases": 100,
+      "served_coverage_90": 0.9078142167258605,
+      "threshold": "",
+      "total_cases": 302
+    },
+    {
+      "id_cases": 100,
+      "id_served_fraction": 0.9,
+      "ood_cases": 202,
+      "ood_routed_fraction": 0.8663366336633663,
+      "policy": "learned_score",
+      "routed_cases": 185,
+      "score_name": "band_width_mean_norm_90",
+      "selected_pools": "id_test,ood_fresh,ood_test",
+      "served_cases": 117,
+      "served_coverage_90": 0.9028714328796665,
+      "threshold": 0.5604707896709443,
+      "total_cases": 302
+    },
+    {
+      "id_cases": 100,
+      "id_served_fraction": 0.9,
+      "ood_cases": 202,
+      "ood_routed_fraction": 1.0,
+      "policy": "explicit_then_learned_score",
+      "routed_cases": 212,
+      "score_name": "band_width_mean_norm_90",
+      "selected_pools": "id_test,ood_fresh,ood_test",
+      "served_cases": 90,
+      "served_coverage_90": 0.9095477796355599,
+      "threshold": 0.5604707896709443,
+      "total_cases": 302
+    },
+    {
+      "id_cases": 100,
+      "id_served_fraction": 0.93,
+      "ood_cases": 202,
+      "ood_routed_fraction": 0.8217821782178217,
+      "policy": "learned_score",
+      "routed_cases": 173,
+      "score_name": "risk_score",
+      "selected_pools": "id_test,ood_fresh,ood_test",
+      "served_cases": 129,
+      "served_coverage_90": 0.8916070112123267,
+      "threshold": -0.7161316633224487,
+      "total_cases": 302
+    },
+    {
+      "id_cases": 100,
+      "id_served_fraction": 0.93,
+      "ood_cases": 202,
+      "ood_routed_fraction": 1.0,
+      "policy": "explicit_then_learned_score",
+      "routed_cases": 209,
+      "score_name": "risk_score",
+      "selected_pools": "id_test,ood_fresh,ood_test",
+      "served_cases": 93,
+      "served_coverage_90": 0.9046273526583322,
+      "threshold": -0.7161316633224487,
+      "total_cases": 302
+    },
+    {
+      "id_cases": 100,
+      "id_served_fraction": 0.93,
+      "ood_cases": 202,
+      "ood_routed_fraction": 0.8217821782178217,
+      "policy": "learned_score",
+      "routed_cases": 173,
+      "score_name": "risk_multiplier",
+      "selected_pools": "id_test,ood_fresh,ood_test",
+      "served_cases": 129,
+      "served_coverage_90": 0.8916070112123267,
+      "threshold": 1.4584164381027223,
+      "total_cases": 302
+    },
+    {
+      "id_cases": 100,
+      "id_served_fraction": 0.93,
+      "ood_cases": 202,
+      "ood_routed_fraction": 1.0,
+      "policy": "explicit_then_learned_score",
+      "routed_cases": 209,
+      "score_name": "risk_multiplier",
+      "selected_pools": "id_test,ood_fresh,ood_test",
+      "served_cases": 93,
+      "served_coverage_90": 0.9046273526583322,
+      "threshold": 1.4584164381027223,
+      "total_cases": 302
+    },
+    {
+      "id_cases": 100,
+      "id_served_fraction": 0.85,
+      "ood_cases": 202,
+      "ood_routed_fraction": 1.0,
+      "policy": "learned_score",
+      "routed_cases": 217,
+      "score_name": "nearest_id_train_distance",
+      "selected_pools": "id_test,ood_fresh,ood_test",
+      "served_cases": 85,
+      "served_coverage_90": 0.9103997004727479,
+      "threshold": 0.3542166739702225,
+      "total_cases": 302
+    },
+    {
+      "id_cases": 100,
+      "id_served_fraction": 0.85,
+      "ood_cases": 202,
+      "ood_routed_fraction": 1.0,
+      "policy": "explicit_then_learned_score",
+      "routed_cases": 217,
+      "score_name": "nearest_id_train_distance",
+      "selected_pools": "id_test,ood_fresh,ood_test",
+      "served_cases": 85,
+      "served_coverage_90": 0.9103997004727479,
+      "threshold": 0.3542166739702225,
+      "total_cases": 302
+    }
+  ],
+  "prediction_index": "evidence_pack_tier2_steady/04_predictions/tier2_physical_operator/prediction_index.csv",
+  "thresholds_from_id_calibration": {
+    "band_width_mean_norm_90": 0.5604707896709443,
+    "nearest_id_train_distance": 0.3542166739702225,
+    "risk_multiplier": 1.4584164381027223,
+    "risk_score": -0.7161316633224487
+  }
+}

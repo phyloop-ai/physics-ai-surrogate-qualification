@@ -1,0 +1,55 @@
+{
+  "by_case_csv": "evidence_pack_tier2_steady/02_metrics/physical_acquisition_physical_plausibility_by_case.csv",
+  "by_pool": {
+    "id_calibration": {
+      "cases": 100,
+      "failed": 0,
+      "passed": 100
+    },
+    "id_test": {
+      "cases": 100,
+      "failed": 0,
+      "passed": 100
+    },
+    "id_train": {
+      "cases": 446,
+      "failed": 0,
+      "passed": 446
+    },
+    "ood_fresh": {
+      "cases": 52,
+      "failed": 0,
+      "passed": 52
+    },
+    "ood_test": {
+      "cases": 150,
+      "failed": 0,
+      "passed": 150
+    }
+  },
+  "case_count": 848,
+  "energy_balance": {
+    "checked_case_count": 848,
+    "enabled": true,
+    "failed_case_count": 0,
+    "rule": "Broad outlet-strip bulk enthalpy sanity check using q_w, estimated heated area, inlet flow area, volumetric heat capacity, and velocity-magnitude-weighted outlet temperature."
+  },
+  "enthalpy_balance": {
+    "checked_case_count": 848,
+    "enabled": true,
+    "failed_case_count": 0,
+    "rule": "Broad outlet-strip bulk enthalpy sanity check using q_w, estimated heated area, inlet flow area, volumetric heat capacity, and velocity-magnitude-weighted outlet temperature."
+  },
+  "failed_case_count": 0,
+  "failures": [],
+  "index_file": "evidence_pack_tier2_steady/04_predictions/physical_acquisition_fixed_grid_index.csv",
+  "inlet_temperature_K": 293.15,
+  "passed": true,
+  "rule": "Strict verification fails unless every retained fixed-grid case passes these physics checks.",
+  "scalar_semantics": "temperature_K_steady_transport_stability_window",
+  "temperature_allowed_K": [
+    291.15,
+    493.15
+  ],
+  "velocity_mag_max_m_per_s": 10.0
+}

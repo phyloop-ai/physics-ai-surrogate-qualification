@@ -1,0 +1,40 @@
+{
+  "active_acquisition_cases": 800,
+  "active_dropped_by_pool": {
+    "id_train": 29,
+    "ood_test": 2
+  },
+  "active_retained_by_pool": {
+    "id_calibration": 1,
+    "id_test": 1,
+    "id_train": 237,
+    "ood_test": 14
+  },
+  "backfill_round": 2,
+  "candidate_counts_by_pool": {
+    "id_train": 87,
+    "ood_test": 8
+  },
+  "combined_parameter_file": "evidence_pack_tier2_steady/03_data/physical_acquisition_with_backfill_parameters.csv",
+  "deficits_after_active_rows": {
+    "id_calibration": 99,
+    "id_test": 99,
+    "id_train": 163,
+    "ood_test": 136
+  },
+  "id_candidates_per_drop": 3,
+  "ood_candidates_per_drop": 4,
+  "ood_distance_file": "evidence_pack_tier2_steady/03_data/physical_backfill_round02_ood_distance.csv",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/physical_backfill_round02_parameters.csv",
+  "policy": "Generate physical-acquisition replacement candidates for dropped active rows; ID replacements preserve original n_fin stratum; OOD replacements preserve n_fin, axis, and distance bin.",
+  "previous_backfill_parameter_files": [
+    "evidence_pack_tier2_steady/03_data/physical_backfill_round01_parameters.csv"
+  ],
+  "seed": 20267605,
+  "targets": {
+    "id_calibration": 100,
+    "id_test": 100,
+    "id_train": 400,
+    "ood_test": 150
+  }
+}

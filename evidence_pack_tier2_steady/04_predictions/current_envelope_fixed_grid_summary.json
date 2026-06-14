@@ -1,0 +1,35 @@
+{
+  "case_count": 19,
+  "case_count_by_pool": {
+    "hard_regime": 3,
+    "id_calibration": 1,
+    "id_test": 1,
+    "id_train": 2,
+    "ood_fresh": 6,
+    "ood_test": 6
+  },
+  "elapsed_sec": 10.488,
+  "grid_resolution": 128,
+  "include_extra_pools": true,
+  "index_file": "evidence_pack_tier2_steady/04_predictions/current_envelope_fixed_grid_index.csv",
+  "input_channels": [
+    "solid_fluid_mask",
+    "sdf",
+    "x",
+    "y",
+    "h_ch",
+    "n_fin",
+    "h_fin",
+    "d_in",
+    "u_in",
+    "q_w"
+  ],
+  "mask_policy": "metrics and loss use fluid_mask only; solid target pixels are zero-filled",
+  "output_dir": "evidence_pack_tier2_steady/04_predictions/current_envelope_fixed_grid_fields",
+  "output_fields": [
+    "T",
+    "U_mag"
+  ],
+  "resampling": "OpenFOAM cell centers to fixed grid by scipy.spatial.cKDTree nearest neighbor",
+  "selected_pool": null
+}

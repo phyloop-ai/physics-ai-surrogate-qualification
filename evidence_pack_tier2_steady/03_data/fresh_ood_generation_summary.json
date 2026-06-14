@@ -1,0 +1,19 @@
+{
+  "candidate_count": 90,
+  "candidate_counts_by_axis": {
+    "d_in_high": 24,
+    "d_in_low": 21,
+    "h_ch_high": 45
+  },
+  "candidate_counts_by_n_fin": {
+    "10": 30,
+    "12": 30,
+    "3": 30
+  },
+  "distance_file": "evidence_pack_tier2_steady/03_data/fresh_ood_distance.csv",
+  "distance_reference": "retained ID-train cases from fixed_grid_index.csv when available",
+  "distance_reference_case_count": 400,
+  "parameter_file": "evidence_pack_tier2_steady/03_data/fresh_ood_parameters.csv",
+  "pool": "ood_fresh",
+  "seed": 20269603
+}

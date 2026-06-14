@@ -1,0 +1,63 @@
+{
+  "allow_drops": true,
+  "attempted": 15,
+  "current_converged_by_pool": {
+    "ood_fresh": 52
+  },
+  "elapsed_sec": 2053.361,
+  "failures": [
+    {
+      "case_id": "ood_fresh_0004",
+      "output_tail": "VM run complete for ood_fresh_0004: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0080",
+      "output_tail": "VM run complete for ood_fresh_0080: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0076",
+      "output_tail": "VM run complete for ood_fresh_0076: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0040",
+      "output_tail": "VM run complete for ood_fresh_0040: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0074",
+      "output_tail": "VM run complete for ood_fresh_0074: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0052",
+      "output_tail": "VM run complete for ood_fresh_0052: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0068",
+      "output_tail": "VM run complete for ood_fresh_0068: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0032",
+      "output_tail": "VM run complete for ood_fresh_0032: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_fresh_0050",
+      "output_tail": "VM run complete for ood_fresh_0050: converged=false\n",
+      "returncode": 2
+    }
+  ],
+  "last_case_id": "ood_fresh_0016",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/physical_fresh_ood_acquisition_parameters.csv",
+  "retained_count_scope": "selected parameter file; archive required when --archive-output is active",
+  "selected_cases": 90,
+  "skipped": 75,
+  "target_retained_count": 90,
+  "target_retained_pool": "ood_fresh",
+  "targets": null
+}

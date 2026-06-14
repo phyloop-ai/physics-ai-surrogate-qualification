@@ -1,0 +1,27 @@
+{
+  "checks": {
+    "duplicate_case_ids": [],
+    "environment_manifest_exists": true,
+    "folder:01_config": true,
+    "folder:02_metrics": true,
+    "folder:03_data": true,
+    "folder:04_predictions": true,
+    "folder:05_figures": true,
+    "folder:06_verification": true,
+    "geometry_clearance_violations": [],
+    "ood_distance_rows": 150,
+    "parameter_counts": {
+      "id_calibration": 100,
+      "id_test": 100,
+      "id_train": 400,
+      "ood_test": 150
+    },
+    "physics_contract_present": true
+  },
+  "environment_manifest_sha256": "d816664b900074e397e3f3459396b8a97d4d7550573fdc5dd9d13672ce6251c8",
+  "errors": [],
+  "mode": "structure-only",
+  "ood_distance_sha256": "b71bc919c81498239cf6ac537f933cf4b52695d16295b54260c46a4e5ed796f7",
+  "parameters_sha256": "ec5abdf0d9f00a96c499a88f2b171cc90f4a48e2282478c4bb15a7b32d155a33",
+  "passed": true
+}

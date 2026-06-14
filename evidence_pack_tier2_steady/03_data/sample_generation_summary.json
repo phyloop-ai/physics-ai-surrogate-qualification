@@ -1,0 +1,12 @@
+{
+  "counts": {
+    "id_calibration": 100,
+    "id_test": 100,
+    "id_train": 400,
+    "ood_test": 150
+  },
+  "note": "These are solver-case parameters, not solver results.",
+  "ood_distance_file": "evidence_pack_tier2_steady/03_data/ood_distance.csv",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/parameters.csv",
+  "seed": 20260603
+}

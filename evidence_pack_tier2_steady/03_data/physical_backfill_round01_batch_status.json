@@ -1,0 +1,29 @@
+{
+  "allow_drops": true,
+  "attempted": 10,
+  "current_converged_by_pool": {
+    "id_train": 39,
+    "ood_test": 6
+  },
+  "elapsed_sec": 895.571,
+  "failures": [
+    {
+      "case_id": "ood_test_pbf01_0001",
+      "output_tail": "VM run complete for ood_test_pbf01_0001: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf01_0000",
+      "output_tail": "VM run complete for ood_test_pbf01_0000: converged=false\n",
+      "returncode": 2
+    }
+  ],
+  "last_case_id": "ood_test_pbf01_0005",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/physical_backfill_round01_parameters.csv",
+  "retained_count_scope": "selected parameter file; archive required when --archive-output is active",
+  "selected_cases": 50,
+  "skipped": 40,
+  "target_retained_count": null,
+  "target_retained_pool": null,
+  "targets": null
+}

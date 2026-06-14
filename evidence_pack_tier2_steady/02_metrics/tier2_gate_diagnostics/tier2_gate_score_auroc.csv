@@ -1,0 +1,13 @@
+score_name,id_pool,ood_pools,id_cases,ood_cases,auroc_higher_score_is_more_ood
+band_width_mean_norm_90,id_test,ood_test,100,150,0.9652666666666667
+band_width_mean_norm_90,id_test,ood_fresh,100,52,0.9161538461538462
+band_width_mean_norm_90,id_test,"ood_test,ood_fresh",100,202,0.9526237623762376
+risk_score,id_test,ood_test,100,150,0.9338666666666666
+risk_score,id_test,ood_fresh,100,52,0.8653846153846154
+risk_score,id_test,"ood_test,ood_fresh",100,202,0.9162376237623763
+risk_multiplier,id_test,ood_test,100,150,0.9335333333333333
+risk_multiplier,id_test,ood_fresh,100,52,0.8785576923076923
+risk_multiplier,id_test,"ood_test,ood_fresh",100,202,0.9193811881188119
+nearest_id_train_distance,id_test,ood_test,100,150,0.9998666666666667
+nearest_id_train_distance,id_test,ood_fresh,100,52,0.999423076923077
+nearest_id_train_distance,id_test,"ood_test,ood_fresh",100,202,0.9997524752475248

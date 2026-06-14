@@ -1,0 +1,68 @@
+{
+  "allow_drops": true,
+  "attempted": 16,
+  "current_converged_by_pool": {
+    "ood_test": 6
+  },
+  "elapsed_sec": 3280.353,
+  "failures": [
+    {
+      "case_id": "ood_test_pbf04_0043",
+      "output_tail": "VM run complete for ood_test_pbf04_0043: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf04_0008",
+      "output_tail": "VM run complete for ood_test_pbf04_0008: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf04_0032",
+      "output_tail": "VM run complete for ood_test_pbf04_0032: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf04_0015",
+      "output_tail": "VM run complete for ood_test_pbf04_0015: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf04_0044",
+      "output_tail": "VM run complete for ood_test_pbf04_0044: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf04_0037",
+      "output_tail": "VM run complete for ood_test_pbf04_0037: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf04_0009",
+      "output_tail": "VM run complete for ood_test_pbf04_0009: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf04_0052",
+      "output_tail": "VM run complete for ood_test_pbf04_0052: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf04_0029",
+      "output_tail": "VM run complete for ood_test_pbf04_0029: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "ood_test_pbf04_0033",
+      "output_tail": "VM run complete for ood_test_pbf04_0033: converged=false\n",
+      "returncode": 2
+    }
+  ],
+  "last_case_id": "ood_test_pbf04_0007",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/physical_backfill_round04_parameters.csv",
+  "retained_count_scope": "selected parameter file; archive required when --archive-output is active",
+  "selected_cases": 53,
+  "skipped": 0,
+  "target_retained_count": 6,
+  "target_retained_pool": "ood_test",
+  "targets": null
+}

@@ -1,0 +1,42 @@
+{
+  "case_count": 21,
+  "case_count_by_validation_pool": {
+    "fresh_ood": 6,
+    "hard_regime": 5,
+    "id": 4,
+    "near_ood": 6
+  },
+  "case_ids": [
+    "id_train_0000",
+    "id_train_0200",
+    "id_calibration_0400",
+    "id_test_0500",
+    "ood_test_0121",
+    "ood_test_0106",
+    "ood_test_0107",
+    "ood_test_0071",
+    "ood_test_0060",
+    "ood_test_0147",
+    "ood_fresh_0063",
+    "ood_fresh_0017",
+    "ood_fresh_0009",
+    "ood_fresh_0089",
+    "ood_fresh_0078",
+    "ood_fresh_0008",
+    "hard_dinhighidfin_0005",
+    "hard_hchhighidfin_0000",
+    "hard_nfin3dinhigh_0003",
+    "hard_nfin3hchhigh_0004",
+    "hard_nfin3idaxes_0004"
+  ],
+  "parameter_csv": "evidence_pack_tier2_steady/03_data/solver_validation_parameters.csv",
+  "selection_csv": "evidence_pack_tier2_steady/03_data/solver_validation_selection.csv",
+  "source_files": {
+    "base_parameters": "evidence_pack_tier2_steady/03_data/parameters.csv",
+    "fresh_distance": "evidence_pack_tier2_steady/03_data/fresh_ood_distance.csv",
+    "fresh_parameters": "evidence_pack_tier2_steady/03_data/fresh_ood_parameters.csv",
+    "hard_distance": "evidence_pack_tier2_steady/03_data/hard_regime_distance.csv",
+    "hard_parameters": "evidence_pack_tier2_steady/03_data/hard_regime_parameters.csv",
+    "ood_distance": "evidence_pack_tier2_steady/03_data/ood_distance.csv"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "allow_drops": true,
+  "attempted": 10,
+  "current_converged_by_pool": {
+    "id_train": 43
+  },
+  "elapsed_sec": 677.571,
+  "failures": [
+    {
+      "case_id": "id_train_pbf02_0042",
+      "output_tail": "VM run complete for id_train_pbf02_0042: converged=false\n",
+      "returncode": 2
+    },
+    {
+      "case_id": "id_train_pbf02_0062",
+      "output_tail": "VM run complete for id_train_pbf02_0062: converged=false\n",
+      "returncode": 2
+    }
+  ],
+  "last_case_id": "id_train_pbf02_0026",
+  "parameter_file": "evidence_pack_tier2_steady/03_data/physical_backfill_round02_parameters.csv",
+  "retained_count_scope": "selected parameter file; archive required when --archive-output is active",
+  "selected_cases": 50,
+  "skipped": 40,
+  "target_retained_count": null,
+  "target_retained_pool": null,
+  "targets": null
+}

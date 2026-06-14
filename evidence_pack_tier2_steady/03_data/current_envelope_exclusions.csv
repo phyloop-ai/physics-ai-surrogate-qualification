@@ -1,0 +1,3 @@
+case_id,pool,validation_pool,selection_group,target_regime,reason,drop_reason,converged,scalar_stability_passed,raw_enthalpy_passed
+hard_dinhighidfin_0005,hard_regime,hard_regime,hard_d_in_high_id_fin_high_distance,d_in_high_id_fin,hard high-d_in regime requires a separate validated steady/transient solver path,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true
+hard_nfin3dinhigh_0003,hard_regime,hard_regime,hard_nfin3_d_in_high_high_distance,nfin3_d_in_high,hard high-d_in regime requires a separate validated steady/transient solver path,flow solver did not report convergence; flow residuals did not meet convergence contract,false,true,true
