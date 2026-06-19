@@ -120,7 +120,13 @@ make tier2-train-physical-operator
 make tier2-gate-diagnostics
 ```
 
-For public review, the shipped evidence pack provides the retained metrics, manifests, figures, and prediction index needed to inspect the reported result without rerunning the full solver campaign.
+The full solver acquisition is compute-heavy and may take substantial wall-clock
+time. Public releases may omit heavy raw solver archives, model checkpoints, and
+per-case tensor files (`solver_outputs/`, `*.npz`, `*.pt`) while retaining their
+manifests, hashes, summary metrics, and figures. That lightweight pack supports
+metadata and metric-consistency review; a full local evidence pack, when present,
+is needed to replay extraction, retraining, and per-case prediction artifacts
+without rerunning OpenFOAM.
 
 ## Citation
 
